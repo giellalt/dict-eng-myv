@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<r xml:lang="eng">
+<e><lg><l pos="CC">and</l></lg><mg><tg xml:lang="myv"><t pos="CC">ды</t><t pos="CC">и</t></tg><xg><x>mother and father </x><xt>тетят-ават</xt></xg></mg></e>
+<e><lg><l pos="CC">as ... as ...</l></lg><mg><tg xml:lang="myv"><t pos="CC">истямо... кода</t></tg></mg></e>
+<e><lg><l pos="CC">but</l></lg><mg><tg xml:lang="myv"><t pos="CC">ансяк</t><t pos="CC">ды</t><t pos="CC">но</t><t pos="CC">а</t></tg></mg></e>
+<e><lg><l pos="CC">either</l></lg><mg><tg xml:lang="myv"><t pos="CC"></t></tg><xg><x>either you or me </x><xt>эли тон эли мон</xt></xg></mg></e>
+<e><lg><l pos="CC">only</l></lg><mg><tg xml:lang="myv"><t pos="CS">ансяк</t></tg></mg></e>
+<e><lg><l pos="CC">or</l></lg><mg><tg xml:lang="myv"><t pos="CC">эли</t></tg></mg></e>
+</r>

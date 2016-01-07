@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<r xml:lang="eng">
+<e><lg><l pos="Pr">about</l></lg><mg><tg xml:lang="myv"><t pos="Po">ланга, -до, перька</t></tg></mg></e>
+<e><lg><l pos="Pr">above</l></lg><mg><tg xml:lang="myv"><t pos="Po">вельксс</t></tg></mg><mg><tg xml:lang="myv"><t pos="Po">велькссэ</t></tg></mg><mg><tg xml:lang="myv"><t pos="Po">велькска</t></tg></mg></e>
+<e><lg><l pos="Pr">according  to</l></lg><mg><tg xml:lang="myv"><t pos="Po">коряс</t></tg></mg></e>
+<e><lg><l pos="Pr">across</l></lg><mg><tg xml:lang="myv"><t pos="Po">трокс</t></tg></mg><mg><tg xml:lang="myv"><t pos="Po">каршо</t></tg><xg><x>they live across from us  </x><xt>сынь эрить минек каршо</xt></xg></mg></e>
+<e><lg><l pos="Pr">after</l></lg><mg><tg xml:lang="myv"><t pos="Po">мельга, кисэ</t></tg></mg></e>
+<e><lg><l pos="Pr">against</l></lg><mg><tg xml:lang="myv"><t pos="Po">каршо</t></tg></mg></e>
+<e><lg><l pos="Pr">along</l></lg><mg><tg xml:lang="myv"><t pos="Po">марто</t></tg></mg></e>
+<e><lg><l pos="Pr">among</l></lg><mg><tg xml:lang="myv"><t pos="Po">ютксо</t></tg></mg></e>
+<e><lg><l pos="Pr">around</l></lg><mg><tg xml:lang="myv"><t pos="Po">перька, маласо</t></tg></mg></e>
+<e><lg><l pos="Pr">as</l></lg><mg><tg xml:lang="myv"><t pos="Po">-кс, кода, прок</t></tg></mg></e>
+<e><lg><l pos="Pr">as far as</l></lg><mg><tg xml:lang="myv"><t pos="Po">видьс</t></tg></mg></e>
+<e><lg><l pos="Pr">at</l></lg><mg><tg xml:lang="myv"><t pos="Po">-со\-сэ</t></tg></mg><mg><tg xml:lang="myv"><t pos="Po">лангс</t></tg></mg></e>
+<e><lg><l pos="Pr">behind</l></lg><mg><tg xml:lang="myv"><t pos="Po">удало</t></tg><xg><x>he is behind me </x><xt>сон удалон</xt></xg></mg></e>
+<e><lg><l pos="Pr">below</l></lg><mg><tg xml:lang="myv"><t pos="Po">алов</t></tg></mg><mg><tg xml:lang="myv"><t pos="Po">ало</t></tg></mg></e>
+<e><lg><l pos="Pr">beneath</l></lg><mg><tg xml:lang="myv"><t pos="Po">алов, ало</t></tg></mg></e>
+<e><lg><l pos="Pr">beside</l></lg><mg><tg xml:lang="myv"><t pos="Po">вакссо</t></tg></mg></e>
+<e><lg><l pos="Pr">besides</l></lg><mg><tg xml:lang="myv"><t pos="Po">башка</t></tg></mg></e>
+<e><lg><l pos="Pr">between</l></lg><mg><tg xml:lang="myv"><t pos="Po">юткс</t></tg></mg><mg><tg xml:lang="myv"><t pos="Po">ютксо</t></tg></mg><mg><tg xml:lang="myv"><t pos="Po">юткова</t></tg></mg></e>
+<e><lg><l pos="Pr">beyond</l></lg><mg><tg xml:lang="myv"><t pos="Po">томбалев, томбале</t></tg></mg></e>
+<e><lg><l pos="Pr">by</l></lg><mg><tg xml:lang="myv"><t pos="Po">(before) (-нтень) самс</t></tg></mg><mg><tg xml:lang="myv"><t pos="Po">(from) -сто</t></tg></mg><mg><tg xml:lang="myv"><t pos="Po">(near) малас, маласо, малава</t></tg></mg><mg><tg xml:lang="myv"><t pos="Po">prep. (past) вакска</t></tg></mg><mg><tg xml:lang="myv"><t pos="Po">(through) вельде</t></tg></mg><mg><tg xml:lang="myv"><t pos="Po">(with) -со</t></tg></mg></e>
+<e><lg><l pos="Pr">concerning</l></lg><mg><tg xml:lang="myv"><t pos="Po">ланга, коряс</t></tg></mg></e>
+<e><lg><l pos="Pr">considering</l></lg><mg><tg xml:lang="myv"><t pos="Po">лангс ванозь</t></tg></mg></e>
+<e><lg><l pos="Pr">despite</l></lg><mg><tg xml:lang="myv"><t pos="Po">кадык</t></tg></mg></e>
+<e><lg><l pos="Pr">during</l></lg><mg><tg xml:lang="myv"><t pos="Po">пингстэ</t></tg></mg></e>
+<e><lg><l pos="Pr">except</l></lg><mg><tg xml:lang="myv"><t pos="Po">башка</t></tg></mg></e>
+<e><lg><l pos="Pr">facing</l></lg><mg><tg xml:lang="myv"><t pos="Po">(across) каршо</t></tg></mg></e>
+<e><lg><l pos="Pr">for</l></lg><mg><tg xml:lang="myv"><t pos="Po">туртов</t></tg></mg><mg><tg xml:lang="myv"><t pos="Po">кисэ, мельга, -с</t></tg></mg><mg><tg xml:lang="myv"><t pos="Po">-нень</t></tg></mg></e>
+<e><lg><l pos="Pr">from</l></lg><mg><tg xml:lang="myv"><t pos="Po">-сто/-стэ</t></tg></mg></e>
+<e><lg><l pos="Pr">in</l></lg><mg><tg xml:lang="myv"><t pos="Po">с</t></tg></mg><mg><tg xml:lang="myv"><t pos="Po">-со/-сэ</t></tg></mg></e>
+<e><lg><l pos="Pr">including</l></lg><mg><tg xml:lang="myv"><t pos="Po">вейсэ + марто</t></tg></mg></e>
+<e><lg><l pos="Pr">inside</l></lg><mg><tg xml:lang="myv"><t pos="Po">потс, потсо</t></tg></mg></e>
+<e><lg><l pos="Pr">instead</l></lg><mg><tg xml:lang="myv"><t pos="Po">таркас, эземс</t></tg></mg></e>
+<e><lg><l pos="Pr">into</l></lg><mg><tg xml:lang="myv"><t pos="Po">потс, -с</t></tg></mg></e>
+<e><lg><l pos="Pr">like</l></lg><mg><tg xml:lang="myv"><t pos="Po">кондямо</t></tg></mg></e>
+<e><lg><l pos="Pr">minus</l></lg><mg><tg xml:lang="myv"><t pos="Po">-втеме</t></tg></mg></e>
+<e><lg><l pos="Pr">of</l></lg><mg><tg xml:lang="myv"><t pos="Po">-нь</t></tg></mg></e>
+<e><lg><l pos="Pr">on</l></lg><mg><tg xml:lang="myv"><t pos="Po">лангсо</t></tg></mg></e>
+<e><lg><l pos="Pr">opposite</l></lg><mg><tg xml:lang="myv"><t pos="Po">карадо каршо</t></tg></mg></e>
+<e><lg><l pos="Pr">outside</l></lg><mg><tg xml:lang="myv"><t pos="Po">ушов, ушосо, ушова</t></tg></mg></e>
+<e><lg><l pos="Pr">over</l></lg><mg><tg xml:lang="myv"><t pos="Po">(above) велькс, велькссэ, велькска</t></tg></mg></e>
+<e><lg><l pos="Pr">past</l></lg><mg><tg xml:lang="myv"><t pos="Po">(after) мейле</t></tg></mg></e>
+<e><lg><l pos="Pr">pending</l></lg><mg><tg xml:lang="myv"><t pos="Po">учозь</t></tg></mg></e>
+<e><lg><l pos="Pr">per</l></lg><mg><tg xml:lang="myv"><t pos="Po">-зо/-зэ</t></tg><xg> </xg></mg></e>
+<e><lg><l pos="Pr">plus</l></lg><mg><tg xml:lang="myv"><t pos="Po">плюс</t></tg></mg></e>
+<e><lg><l pos="Pr">regarding</l></lg><mg><tg xml:lang="myv"><t pos="Po">(тень) лангс ванозь</t></tg></mg></e>
+<e><lg><l pos="Pr">relating</l></lg><mg><tg xml:lang="myv"><t pos="Po">-нень кандовиця</t></tg></mg></e>
+<e><lg><l pos="Pr">since</l></lg><mg><tg xml:lang="myv"><t pos="Po">-сто/-стэ саезь</t></tg></mg></e>
+<e><lg><l pos="Pr">to</l></lg><mg><tg xml:lang="myv"><t pos="Po">-нень</t></tg></mg><mg><tg xml:lang="myv"><t pos="Po">-в</t></tg></mg></e>
+<e><lg><l pos="Pr">toward</l></lg><mg><tg xml:lang="myv"><t pos="Po">ёнов, пелев</t></tg></mg></e>
+<e><lg><l pos="Pr">under</l></lg><mg><tg xml:lang="myv"><t pos="Po">ало</t></tg></mg></e>
+<e><lg><l pos="Pr">underneath</l></lg><mg><tg xml:lang="myv"><t pos="Po">алов</t></tg></mg><mg><tg xml:lang="myv"><t pos="Po">ало</t></tg></mg><mg><tg xml:lang="myv"><t pos="Po">алга</t></tg></mg></e>
+<e><lg><l pos="Pr">until</l></lg><mg><tg xml:lang="myv"><t pos="Po">-с самс, -с молемс, видьс, -с</t></tg></mg></e>
+<e><lg><l pos="Pr">up</l></lg><mg><tg xml:lang="myv"><t pos="Po">верев</t></tg></mg></e>
+<e><lg><l pos="Pr">upon</l></lg><mg><tg xml:lang="myv"><t pos="Po">лангс</t></tg></mg></e>
+<e><lg><l pos="Pr">versus</l></lg><mg><tg xml:lang="myv"><t pos="Po">каршо</t></tg></mg><mg><tg xml:lang="myv"><t pos="Po">таркас</t></tg></mg></e>
+<e><lg><l pos="Pr">with</l></lg><mg><tg xml:lang="myv"><t pos="Po">(walk with somebody) марто</t></tg></mg><mg><tg xml:lang="myv"><t pos="Po">(write with a pencil) -со/-сэ</t></tg></mg></e>
+<e><lg><l pos="Pr">without</l></lg><mg><tg xml:lang="myv"><t pos="Po">-втомо</t></tg></mg><mg><tg xml:lang="myv"><t pos="Po">томбале</t></tg></mg></e>
+</r>

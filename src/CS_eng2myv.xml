@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<r xml:lang="eng">
+<e><lg><l pos="CS">although</l></lg><mg><tg xml:lang="myv"><t pos="CS">кадык</t></tg></mg></e>
+<e><lg><l pos="CS">as soon as</l></lg><mg><tg xml:lang="myv"><t pos="CS">кодак</t></tg></mg></e>
+<e><lg><l pos="CS">because</l></lg><mg><tg xml:lang="myv"><t pos="CS">секскак, (сказуемой + подлежащей)</t></tg><xg><x>I couldn't get to sleep, because a dog was barking.</x><xt>Эзинь матедеве, онгось киска</xt></xg></mg></e>
+<e><lg><l pos="CS">if</l></lg><mg><tg xml:lang="myv"><t pos="Suf">-индеря-</t><t pos="CS">бути</t><t pos="CS">зярдо</t></tg></mg></e>
+<e><lg><l pos="CS">since</l></lg><mg><tg xml:lang="myv"><t pos="CS">секскак</t></tg></mg></e>
+<e><lg><l pos="CS">than</l></lg><mg><tg xml:lang="myv"><t pos="CS">-до/-де</t><t pos="CS">кода</t></tg></mg></e>
+<e><lg><l pos="CS">unless</l></lg><mg><tg xml:lang="myv"><t pos="CS">паряк аволь...</t></tg></mg></e>
+<e><lg><l pos="CS">whether</l></lg><mg><tg xml:lang="myv"><t pos="CS"></t></tg><xg><x>I don't know whether he'll go or not </x><xt>аздан, моли -- а моли.</xt></xg></mg></e>
+<e><lg><l pos="CS">while</l></lg><mg><tg xml:lang="myv"><t pos="Suf">-мсто/-мстэ</t><t pos="CS">зярдо</t></tg></mg></e>
+
+</r>
