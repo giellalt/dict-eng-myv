@@ -15,10 +15,10 @@
 <e><lg><l pos="N">abduction</l></lg><mg><tg xml:lang="myv"><t pos="N">ломанень саламо</t></tg></mg></e>
 <e><lg><l pos="V">abide</l></lg><mg><tg xml:lang="myv"><t pos="V">цидярдомс</t></tg></mg></e>
 <e><lg><l pos="N">ability</l></lg><mg><tg xml:lang="myv"><t pos="N">ёрокчи, маштомачи</t></tg></mg></e>
-<e><lg><l pos="A">ablaze</l></lg><mg><tg xml:lang="myv"><t pos="A"></t></tg><xg><x>be ablaze </x><xt>паломс</xt></xg></mg></e>
-<e><lg><l pos="A">able</l></lg><mg><tg xml:lang="myv"><t pos="A"></t></tg><xg><x>be able to do something </x><xt>маштомс мезеньгак тееме</xt></xg></mg></e>
+<e><lg><l pos="A">ablaze</l></lg><mg><tg xml:lang="myv"><t pos="A">толпотсо</t></tg><xg><x>be ablaze </x><xt>паломс</xt></xg></mg></e>
+<e><lg><l pos="A">able</l></lg><mg><tg xml:lang="myv"><t pos="A">маштома марто</t></tg><xg><x>be able to do something </x><xt>маштомс мезеньгак тееме</xt></xg></mg></e>
 <e><lg><l pos="A">abnormal</l></lg><mg><tg xml:lang="myv"><t pos="A">аволь лиятнень кондямо</t></tg></mg></e>
-<e><lg><l pos="V">abolish</l></lg><mg><tg xml:lang="myv"><t pos="V"></t></tg><xg><x>abolish something </x><xt>путомс пе мезненьгак</xt></xg></mg></e>
+<e><lg><l pos="V">abolish</l></lg><mg><tg xml:lang="myv"><t pos="V">путомс пе</t></tg><xg><x>abolish something </x><xt>путомс пе мезненьгак</xt></xg></mg></e>
 <e><lg><l pos="N">aborigine</l></lg><mg><tg xml:lang="myv"><t pos="N">абориген</t></tg></mg></e>
 <e><lg><l pos="N">abortion</l></lg><mg><tg xml:lang="myv"><t pos="N">эйдень каявтома</t></tg><xg><x>have an abortion </x><xt>каявтомс эйде</xt></xg></mg></e>
 <e><lg><l pos="Pr">about</l></lg><mg><tg xml:lang="myv"><t pos="Pr">ланга, -до, перька</t></tg></mg></e>
@@ -27,10 +27,10 @@
 <e><lg><l pos="A">abrupt</l></lg><mg><tg xml:lang="myv"><t pos="A">апак учонь, аваланя</t></tg></mg></e>
 <e><lg><l pos="N">abscess</l></lg><mg><tg xml:lang="myv"><t pos="N">комадоньпал, орво, сукаодар</t></tg></mg></e>
 <e><lg><l pos="N">absence</l></lg><mg><tg xml:lang="myv"><t pos="N">аразь, аразьчи</t></tg></mg></e>
-<e><lg><l pos="A">absent</l></lg><mg><tg xml:lang="myv"><t pos="A"></t></tg><xg><x>he/she is absent </x><xt>сон арась</xt></xg></mg></e>
+<e><lg><l pos="A">absent</l></lg><mg><tg xml:lang="myv"><t pos="A">арась</t></tg><xg><x>he/she is absent </x><xt>сон арась</xt></xg></mg></e>
 <e><lg><l pos="A">absolutely</l></lg><mg><tg xml:lang="myv"><t pos="A">вал арась</t></tg></mg></e>
 <e><lg><l pos="V">absorb</l></lg><mg><tg xml:lang="myv"><t pos="V">сотямс</t></tg></mg></e>
-<e><lg><l pos="V">abstain</l></lg><mg><tg xml:lang="myv"><t pos="V"></t></tg><xg><x>abstain from doing something </x><xt>лоткамс мезеньгак теемадо</xt></xg></mg></e>
+<e><lg><l pos="V">abstain</l></lg><mg><tg xml:lang="myv"><t pos="V">а теемс</t></tg><xg><x>abstain from doing something </x><xt>лоткамс мезеньгак теемадо</xt></xg></mg></e>
 <e><lg><l pos="A">abstract</l></lg><mg><tg xml:lang="myv"><t pos="A">чарькодевксэнь, абстрактной</t></tg></mg></e>
 <e><lg><l pos="A">absurd</l></lg><mg><tg xml:lang="myv"><t pos="A">превтемень</t></tg></mg></e>
 <e><lg><l pos="N">abundance</l></lg><mg><tg xml:lang="myv"><t pos="N">ламочи</t></tg><xg><x>be in abundance </x><xt>ламочисэ</xt></xg></mg></e>
@@ -120,7 +120,7 @@
 <e><lg><l pos="V">address</l></lg><mg><tg xml:lang="myv"><t pos="V">(people) кортамс, пшкадемс (киненьгак)</t></tg></mg><mg><tg xml:lang="myv"><t pos="V">(place) путомс адрес (сёрма лангс)</t></tg></mg></e>
 <e><lg><l pos="A">adequate</l></lg><mg><tg xml:lang="myv"><t pos="A">сатышка</t></tg></mg></e>
 <e><lg><l pos="V">adhere</l></lg><mg><tg xml:lang="myv"><t pos="V">(tape) педявомс (to something мезескак)</t></tg></mg><mg><tg xml:lang="myv"><t pos="V">(doctrine) саемс мельс (to )</t></tg></mg></e>
-<e><lg><l pos="N">adherence</l></lg><mg><tg xml:lang="myv"><t pos="N"></t></tg><xg><x>be in adherence with </x><xt>саемс мельс</xt></xg></mg></e>
+<e><lg><l pos="N">adherence</l></lg><mg><tg xml:lang="myv"><t pos="N">мельс саема</t></tg><xg><x>be in adherence with </x><xt>саемс мельс</xt></xg></mg></e>
 <e><lg><l pos="A">adhesive</l></lg><mg><tg xml:lang="myv"><t pos="A">педиця</t></tg></mg></e>
 <e><lg><l pos="A">adjacent</l></lg><mg><tg xml:lang="myv"><t pos="A">каршо</t></tg></mg></e>
 <e><lg><l pos="N">adjective</l></lg><mg><tg xml:lang="myv"><t pos="N">лемтюс, прилогательной</t></tg></mg></e>
@@ -188,7 +188,7 @@
 <e><lg><l pos="V">afford</l></lg><mg><tg xml:lang="myv"><t pos="V"></t></tg><xg><x>afford to do something </x><xt>сатомс ярмак мезеньгак теемс</xt></xg><xg><x>this will afford us an opportunity to rebuild the house </x><xt>те максы миненек шка теемс кудонть одов</xt></xg></mg></e>
 <e><lg><l pos="Adv">afloat</l></lg><mg><tg xml:lang="myv"><t pos="Adv"></t></tg><xg><x>be afloat </x><xt>уемс (ведь лангсо)</xt></xg></mg></e>
 <e><lg><l pos="A">afraid</l></lg><mg><tg xml:lang="myv"><t pos="A"></t></tg><xg><x>be afraid of something </x><xt>пелемс мездеяк</xt></xg><xg><x>be afraid to do something </x><xt>пелемс мезеньгак тееме</xt></xg></mg></e>
-<e><lg><l pos="N">Africa</l></lg><mg><tg xml:lang="myv"><t pos="N">Африка</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Africa</l></lg><mg><tg xml:lang="myv"><t pos="N">Африка</t></tg></mg></e>
 <e><lg><l pos="A">African</l></lg><mg><tg xml:lang="myv"><t pos="A">Африкань</t></tg></mg></e>
 <e><lg><l pos="N">African</l></lg><mg><tg xml:lang="myv"><t pos="N">Африкань ломань</t></tg></mg></e>
 <e><lg><l pos="Adv">after</l></lg><mg><tg xml:lang="myv"><t pos="Adv">мейле</t></tg></mg></e>
@@ -309,7 +309,7 @@
 <e><lg><l pos="V">ambush</l></lg><mg><tg xml:lang="myv"><t pos="V">каявомс салава таркасто</t></tg></mg></e>
 <e><lg><l pos="V">amend</l></lg><mg><tg xml:lang="myv"><t pos="V">витнемс (закон)</t></tg></mg></e>
 <e><lg><l pos="N">amendment</l></lg><mg><tg xml:lang="myv"><t pos="N">(закононь) витневкс</t></tg></mg></e>
-<e><lg><l pos="N">America</l></lg><mg><tg xml:lang="myv"><t pos="N">Америка</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">America</l></lg><mg><tg xml:lang="myv"><t pos="N">Америка</t></tg></mg></e>
 <e><lg><l pos="A">American</l></lg><mg><tg xml:lang="myv"><t pos="A">Американь</t></tg></mg></e>
 <e><lg><l pos="N">American</l></lg><mg><tg xml:lang="myv"><t pos="N">Американь ломань</t></tg></mg></e>
 <e><lg><l pos="A">amicable</l></lg><mg><tg xml:lang="myv"><t pos="A">вечкевикс</t></tg></mg></e>
@@ -372,7 +372,7 @@
 <e><lg><l pos="N">ant</l></lg><mg><tg xml:lang="myv"><t pos="N">коткудав</t></tg></mg></e>
 <e><lg><l pos="N">antagonism</l></lg><mg><tg xml:lang="myv"><t pos="N">вейкень-омбоцень порема</t></tg></mg></e>
 <e><lg><l pos="V">antagonize</l></lg><mg><tg xml:lang="myv"><t pos="V">савтомс кеж</t></tg></mg></e>
-<e><lg><l pos="N">Antarctica</l></lg><mg><tg xml:lang="myv"><t pos="N">Антарктида</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Antarctica</l></lg><mg><tg xml:lang="myv"><t pos="N">Антарктида</t></tg></mg></e>
 <e><lg><l pos="N">antelope</l></lg><mg><tg xml:lang="myv"><t pos="N">антилопа</t></tg></mg></e>
 <e><lg><l pos="N">antenna</l></lg><mg><tg xml:lang="myv"><t pos="N">антенна</t></tg></mg></e>
 <e><lg><l pos="N">anthem</l></lg><mg><tg xml:lang="myv"><t pos="N">гимна, инелмаморо</t></tg></mg></e>
@@ -472,7 +472,7 @@
 <e><lg><l pos="N">architecture</l></lg><mg><tg xml:lang="myv"><t pos="N">архитектура</t></tg></mg></e>
 <e><lg><l pos="N">archives</l></lg><mg><tg xml:lang="myv"><t pos="N">архив</t></tg></mg></e>
 <e><lg><l pos="N">archway</l></lg><mg><tg xml:lang="myv"><t pos="N">свод марто ютамо тарка</t></tg></mg></e>
-<e><lg><l pos="N">Arctic Ocean</l></lg><mg><tg xml:lang="myv"><t pos="N">пеле ве ёнксонь иневедь</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Arctic Ocean</l></lg><mg><tg xml:lang="myv"><t pos="N">пеле ве ёнксонь иневедь</t></tg></mg></e>
 <e><lg><l pos="N">area</l></lg><mg><tg xml:lang="myv"><t pos="N">келеть-кувалмот</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">кирькс, пакся</t></tg></mg></e>
 <e><lg><l pos="N">arena</l></lg><mg><tg xml:lang="myv"><t pos="N">арена</t></tg></mg></e>
 <e><lg><l pos="V">argue</l></lg><mg><tg xml:lang="myv"><t pos="V">пелькстамс</t></tg></mg></e>
@@ -528,7 +528,7 @@
 <e><lg><l pos="A">ashamed</l></lg><mg><tg xml:lang="myv"><t pos="A">виздиця, визькс чамас совазь</t></tg></mg></e>
 <e><lg><l pos="Adv">ashore</l></lg><mg><tg xml:lang="myv"><t pos="Adv">мода лангсо</t></tg></mg></e>
 <e><lg><l pos="N">ashtray</l></lg><mg><tg xml:lang="myv"><t pos="N">пепельница, куловдирькс</t></tg></mg></e>
-<e><lg><l pos="N">Asia</l></lg><mg><tg xml:lang="myv"><t pos="N">Азия</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Asia</l></lg><mg><tg xml:lang="myv"><t pos="N">Азия</t></tg></mg></e>
 <e><lg><l pos="A">Asian</l></lg><mg><tg xml:lang="myv"><t pos="A">Азиянь</t></tg></mg></e>
 <e><lg><l pos="N">Asian</l></lg><mg><tg xml:lang="myv"><t pos="N">Азиянь ломань</t></tg></mg></e>
 <e><lg><l pos="V">ask</l></lg><mg><tg xml:lang="myv"><t pos="V">кевкстемс</t></tg><xg><x>ask for </x><xt>вешемс</xt></xg></mg></e>
@@ -579,7 +579,7 @@
 <e><lg><l pos="N">atheism</l></lg><mg><tg xml:lang="myv"><t pos="N">атеизма</t></tg></mg></e>
 <e><lg><l pos="N">atheist</l></lg><mg><tg xml:lang="myv"><t pos="N">атеист, пазнэнь акемиця</t></tg></mg></e>
 <e><lg><l pos="N">athlete</l></lg><mg><tg xml:lang="myv"><t pos="N">атлет</t></tg></mg></e>
-<e><lg><l pos="N">Atlantic Ocean</l></lg><mg><tg xml:lang="myv"><t pos="N">Атлантика иневедь</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Atlantic Ocean</l></lg><mg><tg xml:lang="myv"><t pos="N">Атлантика иневедь</t></tg></mg></e>
 <e><lg><l pos="N">atlas</l></lg><mg><tg xml:lang="myv"><t pos="N">атлас</t></tg></mg></e>
 <e><lg><l pos="N">atmosphere</l></lg><mg><tg xml:lang="myv"><t pos="N">атмосфера, кошт</t></tg></mg></e>
 <e><lg><l pos="N">atom</l></lg><mg><tg xml:lang="myv"><t pos="N">атом</t></tg></mg></e>
@@ -610,7 +610,7 @@
 <e><lg><l pos="V">augment</l></lg><mg><tg xml:lang="myv"><t pos="V">касомс</t></tg></mg><mg><tg xml:lang="myv"><t pos="V">vt. кастомс</t></tg></mg></e>
 <e><lg><l pos="N">August</l></lg><mg><tg xml:lang="myv"><t pos="N">умарьков, кавксоце ков</t></tg></mg></e>
 <e><lg><l pos="N">aunt</l></lg><mg><tg xml:lang="myv"><t pos="N">(сыре) патя</t></tg></mg></e>
-<e><lg><l pos="N">Australia</l></lg><mg><tg xml:lang="myv"><t pos="N">Австралия</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Australia</l></lg><mg><tg xml:lang="myv"><t pos="N">Австралия</t></tg></mg></e>
 <e><lg><l pos="N">Australian</l></lg><mg><tg xml:lang="myv"><t pos="N">Австралиянь ломань</t></tg></mg></e>
 <e><lg><l pos="A">Australian</l></lg><mg><tg xml:lang="myv"><t pos="A">Австралиянь</t></tg></mg></e>
 <e><lg><l pos="A">authentic</l></lg><mg><tg xml:lang="myv"><t pos="A">автентической, алкуксонь, виде</t></tg></mg></e>
@@ -847,7 +847,7 @@
 <e><lg><l pos="Adv">beyond</l></lg><mg><tg xml:lang="myv"><t pos="Adv">седе тов</t></tg></mg></e>
 <e><lg><l pos="Pr">beyond</l></lg><mg><tg xml:lang="myv"><t pos="Pr">томбалев, томбале</t></tg></mg></e>
 <e><lg><l pos="N">bib</l></lg><mg><tg xml:lang="myv"><t pos="N">икелькске (эйкакшонь ярсамсто)</t></tg></mg></e>
-<e><lg><l pos="N">Bible</l></lg><mg><tg xml:lang="myv"><t pos="N">Библия</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Bible</l></lg><mg><tg xml:lang="myv"><t pos="N">Библия</t></tg></mg></e>
 <e><lg><l pos="A">biblical</l></lg><mg><tg xml:lang="myv"><t pos="A">Библиянь, Библиясо</t></tg></mg></e>
 <e><lg><l pos="N">bicycle</l></lg><mg><tg xml:lang="myv"><t pos="N">лесопед, велосипед</t></tg></mg></e>
 <e><lg><l pos="N">bid</l></lg><mg><tg xml:lang="myv"><t pos="N">питнень максома (аукционсо)</t></tg></mg></e>
@@ -1053,7 +1053,7 @@
 <e><lg><l pos="N">brim</l></lg><mg><tg xml:lang="myv"><t pos="N">(cup) край</t></tg></mg></e>
 <e><lg><l pos="N">brim</l></lg><mg><tg xml:lang="myv"><t pos="N">(hat) поля</t></tg></mg></e>
 <e><lg><l pos="V">bring</l></lg><mg><tg xml:lang="myv"><t pos="V">кандомс, туемс</t></tg></mg></e>
-<e><lg><l pos="N">British</l></lg><mg><tg xml:lang="myv"><t pos="N">Британиянь раськесь</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">British</l></lg><mg><tg xml:lang="myv"><t pos="N">Британиянь раськесь</t></tg></mg></e>
 <e><lg><l pos="A">British</l></lg><mg><tg xml:lang="myv"><t pos="A">Британиянь</t></tg></mg></e>
 <e><lg><l pos="A">brittle</l></lg><mg><tg xml:lang="myv"><t pos="A">синдтревикс</t></tg></mg></e>
 <e><lg><l pos="A">broad</l></lg><mg><tg xml:lang="myv"><t pos="A">келей</t></tg></mg></e>
@@ -1182,8 +1182,8 @@
 <e><lg><l pos="N">campus</l></lg><mg><tg xml:lang="myv"><t pos="N">университетэнь ошке</t></tg></mg></e>
 <e><lg><l pos="N">can</l></lg><mg><tg xml:lang="myv"><t pos="N">консерва</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">(watering can) лейка</t></tg></mg></e>
 <e><lg><l pos="V">can</l></lg><mg><tg xml:lang="myv"><t pos="V">(able) -вомс, -вемс</t></tg></mg><mg><tg xml:lang="myv"><t pos="V">(know how) маштомс</t></tg></mg><mg><tg xml:lang="myv"><t pos="V">(allow) меремс</t></tg></mg></e>
-<e><lg><l pos="N">Canada</l></lg><mg><tg xml:lang="myv"><t pos="N">Канада</t></tg></mg></e>
-<e><lg><l pos="N">Canadian</l></lg><mg><tg xml:lang="myv"><t pos="N">Канадань ломань</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Canada</l></lg><mg><tg xml:lang="myv"><t pos="N">Канада</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Canadian</l></lg><mg><tg xml:lang="myv"><t pos="N">Канадань ломань</t></tg></mg></e>
 <e><lg><l pos="A">Canadian</l></lg><mg><tg xml:lang="myv"><t pos="A">Канадань</t></tg></mg></e>
 <e><lg><l pos="N">canal</l></lg><mg><tg xml:lang="myv"><t pos="N">канал</t></tg></mg></e>
 <e><lg><l pos="V">cancel</l></lg><mg><tg xml:lang="myv"><t pos="V">лоткавтомс, штамп путомс</t></tg></mg></e>
@@ -1400,7 +1400,7 @@
 <e><lg><l pos="N">chimpanzee</l></lg><mg><tg xml:lang="myv"><t pos="N">шимпанзе</t></tg></mg></e>
 <e><lg><l pos="N">chin</l></lg><mg><tg xml:lang="myv"><t pos="N">уло</t></tg></mg></e>
 <e><lg><l pos="N">china</l></lg><mg><tg xml:lang="myv"><t pos="N">фарфор</t></tg></mg></e>
-<e><lg><l pos="N">China</l></lg><mg><tg xml:lang="myv"><t pos="N">Китай мастор</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">China</l></lg><mg><tg xml:lang="myv"><t pos="N">Китай мастор</t></tg></mg></e>
 <e><lg><l pos="N">Chinese</l></lg><mg><tg xml:lang="myv"><t pos="N">Китаень ломань</t></tg></mg></e>
 <e><lg><l pos="A">Chinese</l></lg><mg><tg xml:lang="myv"><t pos="A">Китаень</t></tg></mg></e>
 <e><lg><l pos="N">chip</l></lg><mg><tg xml:lang="myv"><t pos="N">(glass) штелькске</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">(rock) поколь</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">(wood) инзэдькс, лаксевкс</t></tg></mg></e>
@@ -1419,7 +1419,7 @@
 <e><lg><l pos="N">chopsticks</l></lg><mg><tg xml:lang="myv"><t pos="N">(ярсамо) палкинеть</t></tg></mg></e>
 <e><lg><l pos="N">chord</l></lg><mg><tg xml:lang="myv"><t pos="N">(музыкасо) аккорд</t></tg></mg></e>
 <e><lg><l pos="N">chorus</l></lg><mg><tg xml:lang="myv"><t pos="N">хор</t></tg></mg></e>
-<e><lg><l pos="N">Christ</l></lg><mg><tg xml:lang="myv"><t pos="N">Кристос</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Christ</l></lg><mg><tg xml:lang="myv"><t pos="N">Кристос</t></tg></mg></e>
 <e><lg><l pos="N">Christian</l></lg><mg><tg xml:lang="myv"><t pos="N">кристианка, Кристоснэнь кемиця</t></tg></mg></e>
 <e><lg><l pos="N">Christianity</l></lg><mg><tg xml:lang="myv"><t pos="N">кристианства</t></tg></mg></e>
 <e><lg><l pos="N">Christmas</l></lg><mg><tg xml:lang="myv"><t pos="N">роштува, роштова</t></tg></mg></e>
@@ -2562,7 +2562,7 @@
 <e><lg><l pos="A">eternal</l></lg><mg><tg xml:lang="myv"><t pos="A">пингеде-пингень</t></tg></mg></e>
 <e><lg><l pos="N">eternity</l></lg><mg><tg xml:lang="myv"><t pos="N">пингеде-пингень эрямо</t></tg></mg></e>
 <e><lg><l pos="N">etiquette</l></lg><mg><tg xml:lang="myv"><t pos="N">прянь ветямо лув</t></tg></mg></e>
-<e><lg><l pos="N">Europe</l></lg><mg><tg xml:lang="myv"><t pos="N">эвропа, Европа</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Europe</l></lg><mg><tg xml:lang="myv"><t pos="N">эвропа, Европа</t></tg></mg></e>
 <e><lg><l pos="A">European</l></lg><mg><tg xml:lang="myv"><t pos="A">эвропань, Европань</t></tg></mg></e>
 <e><lg><l pos="N">European</l></lg><mg><tg xml:lang="myv"><t pos="N">эвропань ломань</t></tg></mg></e>
 <e><lg><l pos="V">evacuate</l></lg><mg><tg xml:lang="myv"><t pos="V">чамдомс (ломанде)</t></tg></mg></e>
@@ -3122,7 +3122,7 @@
 <e><lg><l pos="V">go</l></lg><mg><tg xml:lang="myv"><t pos="V">(on foot, by vehicle) молемс, якамс</t></tg></mg></e>
 <e><lg><l pos="N">goal</l></lg><mg><tg xml:lang="myv"><t pos="N">(sport) орта</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">(target) буй</t></tg></mg></e>
 <e><lg><l pos="N">goat</l></lg><mg><tg xml:lang="myv"><t pos="N">сея</t></tg></mg></e>
-<e><lg><l pos="N">God</l></lg><mg><tg xml:lang="myv"><t pos="N">Паз, Инешкипаз</t></tg></mg></e>
+<e><lg><l pos="N"> type="Prop"God</l></lg><mg><tg xml:lang="myv"><t pos="N">Паз, Инешкипаз</t></tg></mg></e>
 <e><lg><l pos="N">godchild</l></lg><mg><tg xml:lang="myv"><t pos="N">крёстной цёра</t></tg></mg></e>
 <e><lg><l pos="N">goddess</l></lg><mg><tg xml:lang="myv"><t pos="N">(аволь сымень) паз</t></tg></mg></e>
 <e><lg><l pos="N">godfather</l></lg><mg><tg xml:lang="myv"><t pos="N">колькой</t></tg></mg></e>
@@ -4012,7 +4012,7 @@
 <e><lg><l pos="N">know-how</l></lg><mg><tg xml:lang="myv"><t pos="N">маштомачи, колчи</t></tg></mg></e>
 <e><lg><l pos="N">knowledge</l></lg><mg><tg xml:lang="myv"><t pos="N">содамочи</t></tg></mg></e>
 <e><lg><l pos="N">knuckle</l></lg><mg><tg xml:lang="myv"><t pos="N">сурполда</t></tg></mg></e>
-<e><lg><l pos="N">Koran</l></lg><mg><tg xml:lang="myv"><t pos="N">Коран</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Koran</l></lg><mg><tg xml:lang="myv"><t pos="N">Коран</t></tg></mg></e>
 <e><lg><l pos="N">label</l></lg><mg><tg xml:lang="myv"><t pos="N">этикеть</t></tg></mg></e>
 <e><lg><l pos="N">labor</l></lg><mg><tg xml:lang="myv"><t pos="N">(medical) чачтома</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">(work) важодема</t></tg></mg></e>
 <e><lg><l pos="N">laboratory</l></lg><mg><tg xml:lang="myv"><t pos="N">лаборатория</t></tg></mg></e>
@@ -4408,7 +4408,7 @@
 <e><lg><l pos="N">microscope</l></lg><mg><tg xml:lang="myv"><t pos="N">микроскоп</t></tg></mg></e>
 <e><lg><l pos="A">middle</l></lg><mg><tg xml:lang="myv"><t pos="A">куншкань, куншка куронь</t></tg></mg></e>
 <e><lg><l pos="N">middle</l></lg><mg><tg xml:lang="myv"><t pos="N">куншка</t></tg></mg></e>
-<e><lg><l pos="N">Middle East</l></lg><mg><tg xml:lang="myv"><t pos="N">Маласо чилисема ёнкс</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Middle East</l></lg><mg><tg xml:lang="myv"><t pos="N">Маласо чилисема ёнкс</t></tg></mg></e>
 <e><lg><l pos="N">midnight</l></lg><mg><tg xml:lang="myv"><t pos="N">пелеве</t></tg></mg></e>
 <e><lg><l pos="N">might</l></lg><mg><tg xml:lang="myv"><t pos="N">вий</t></tg></mg></e>
 <e><lg><l pos="A">mighty</l></lg><mg><tg xml:lang="myv"><t pos="A">виев, ине</t></tg></mg></e>
@@ -7635,233 +7635,233 @@
 
 <h3>Some languages</h3>
 <p>
-азеринь <br/>
-аймарань <br/>
-акинесэнь <br/>
-албанонь <br/>
-амгарикень <br/>
-англань <br/>
-апачень <br/>
-арабонь <br/>
-араваконь <br/>
-арандань <br/>
-арауконь <br/>
-армянонь <br/>
-ассамесэнь <br/>
-африканонь <br/>
-балонь <br/>
-балучинь <br/>
-бамбарань <br/>
-басконь <br/>
-башкирэнь <br/>
-белорусонь <br/>
-бембань <br/>
-бенгалонь <br/>
-биколонь <br/>
-бирмань <br/>
-боджпуронь <br/>
-болгаронь <br/>
-бретононь <br/>
-бугинэнь <br/>
-бурятонь <br/>
-бушманонь <br/>
-венгрань <br/>
-волофонь <br/>
-вунь, китаень <br/>
-вьетнамонь <br/>
-гаваень <br/>
-галациянь <br/>
-гандань <br/>
-гаузань <br/>
-гилигайнононь <br/>
-голландонь <br/>
-грекень <br/>
-гуаранонь <br/>
-гуяратонь <br/>
-дакотань, сиунь <br/>
-данонь <br/>
-дермань <br/>
-динкань <br/>
-запотекень <br/>
-зулунь <br/>
-зунинь <br/>
-ибонь <br/>
-ивритэнь <br/>
-идышень <br/>
-илосанонь <br/>
-индонезэнь <br/>
-инупикень, эскимосонь <br/>
-ирландонь <br/>
-исландонь <br/>
-испанонь <br/>
-италиянь <br/>
-йонхань <br/>
-йорубань <br/>
-кабилень <br/>
-казахонь <br/>
-какчикелэнь <br/>
-календжинэнь <br/>
-камбань <br/>
-каннадань <br/>
-кантононь <br/>
-кануринь <br/>
-каренэнь <br/>
-картвелень <br/>
-каталанонь <br/>
-кашмирэнь <br/>
-кересэнь <br/>
-кечуань <br/>
-кикуюнь <br/>
-кингванань <br/>
-киргизэнь <br/>
-китубань <br/>
-кишень <br/>
-коминь <br/>
-конгонь <br/>
-кореянь <br/>
-кпеллень <br/>
-крикень <br/>
-кринь <br/>
-кровонь <br/>
-курдонь <br/>
-кымринь, валлиень <br/>
-лаонь <br/>
-латинэнь <br/>
-латышень <br/>
-литовонь <br/>
-лубань <br/>
-луонь <br/>
-люксембургонь <br/>
-магахонь <br/>
-мадуронь <br/>
-майтилень <br/>
-македононь <br/>
-малагашонь <br/>
-малаень <br/>
-малаяламонь <br/>
-малинкень <br/>
-мальтань <br/>
-мандаринэнь, китаень <br/>
-маоринь <br/>
-маратинь <br/>
-масаень <br/>
-мендень <br/>
-миаонь <br/>
-микмаконь <br/>
-минангкабаунь <br/>
-минэнь, китаень <br/>
-мокшонь <br/>
-монголонь <br/>
-монгонь <br/>
-морень <br/>
-мурнгинэнь <br/>
-навахонь <br/>
-нагуатлонь <br/>
-наскапонь <br/>
-нгалань <br/>
-нгулунь <br/>
-немецень <br/>
-непалонь <br/>
-норвегиянь <br/>
-нямвезэнь <br/>
-нянджань <br/>
-оджибвань <br/>
-ориянь <br/>
-оромонь <br/>
-панаень <br/>
-папагонь <br/>
-папияментонь <br/>
-паштонь <br/>
-пейджинэнь, англань <br/>
-польшань <br/>
-португалонь <br/>
-провенциялонь <br/>
-пунджабонь <br/>
-раястанонь <br/>
-романшонь <br/>
-руандань <br/>
-рузонь <br/>
-румынэнь <br/>
-рундинь <br/>
-саамонь <br/>
-самоань <br/>
-сангонь <br/>
-санскритэнь <br/>
-санталонь <br/>
-сарань <br/>
-свазинь <br/>
-свахилинь <br/>
-сербень <br/>
-синдинь <br/>
-синхалонь <br/>
-словаконь <br/>
-словенэнь <br/>
-сомалинь <br/>
-сотонь <br/>
-сукумань <br/>
-сунданонь <br/>
-тагалогонь <br/>
-таджикень <br/>
-таень <br/>
-тамилэнь <br/>
-татаронь <br/>
-тахитинь <br/>
-твинь <br/>
-телугунь <br/>
-темнень <br/>
-тибетань <br/>
-тигринянь <br/>
-тонганонь <br/>
-тонгань <br/>
-тонгань <br/>
-тумбукань <br/>
-туркменэнь <br/>
-тюрконь <br/>
-удмуртонь <br/>
-узбекень <br/>
-уйгуронь <br/>
-украинэнь <br/>
-умбундунь <br/>
-урдунь <br/>
-фангонь <br/>
-фаронь <br/>
-фарсинь <br/>
-фиджинь <br/>
-финнэнь <br/>
-французонь <br/>
-фризэнь <br/>
-фуланонь <br/>
-хиндусонь <br/>
-хмерэнь <br/>
-хмонгонь <br/>
-хозань <br/>
-хорватонь <br/>
-цванань <br/>
-цебуанонь <br/>
-цонгань <br/>
-чаморронь <br/>
-черокень <br/>
-чехень <br/>
-чеченэнь <br/>
-чикасавонь <br/>
-чоктавонь <br/>
-чуангонь <br/>
-чуважонь, ветькень <br/>
-шанонь <br/>
-шведэнь <br/>
-шлухонь <br/>
-шонань <br/>
-шотландонь <br/>
-эрзянь <br/>
-эсперантонь <br/>
-эстэнь <br/>
-эфикень <br/>
-юкатекень <br/>
-юнь <br/>
-юпикень, эскимосонь <br/>
-явань <br/>
-якутонь <br/>
-яонь <br/>
+азеринь кель<br/>
+аймарань кель<br/>
+акинесэнь кель<br/>
+албанонь кель<br/>
+амгарикень кель<br/>
+англань кель<br/>
+апачень кель<br/>
+арабонь кель<br/>
+араваконь кель<br/>
+арандань кель<br/>
+арауконь кель<br/>
+армянонь кель<br/>
+ассамесэнь кель<br/>
+африканонь кель<br/>
+балонь кель<br/>
+балучинь кель<br/>
+бамбарань кель<br/>
+басконь кель<br/>
+башкирэнь кель<br/>
+белорусонь кель<br/>
+бембань кель<br/>
+бенгалонь кель<br/>
+биколонь кель<br/>
+бирмань кель<br/>
+боджпуронь кель<br/>
+болгаронь кель<br/>
+бретононь кель<br/>
+бугинэнь кель<br/>
+бурятонь кель<br/>
+бушманонь кель<br/>
+венгрань кель<br/>
+волофонь кель<br/>
+вунь кель, китаень кель<br/>
+вьетнамонь кель<br/>
+гаваень кель<br/>
+галациянь кель<br/>
+гандань кель<br/>
+гаузань кель<br/>
+гилигайнононь кель<br/>
+голландонь кель<br/>
+грекень кель<br/>
+гуаранонь кель<br/>
+гуяратонь кель<br/>
+дакотань кель, сиунь кель<br/>
+данонь кель<br/>
+дермань кель<br/>
+динкань кель<br/>
+запотекень кель<br/>
+зулунь кель<br/>
+зунинь кель<br/>
+ибонь кель<br/>
+ивритэнь кель<br/>
+идышень кель<br/>
+илосанонь кель<br/>
+индонезэнь кель<br/>
+инупикень кель, эскимосонь кель<br/>
+ирландонь кель<br/>
+исландонь кель<br/>
+испанонь кель<br/>
+италиянь кель<br/>
+йонхань кель<br/>
+йорубань кель<br/>
+кабилень кель<br/>
+казахонь кель<br/>
+какчикелэнь кель<br/>
+календжинэнь кель<br/>
+камбань кель<br/>
+каннадань кель<br/>
+кантононь кель<br/>
+кануринь кель<br/>
+каренэнь кель<br/>
+картвелень кель<br/>
+каталанонь кель<br/>
+кашмирэнь кель<br/>
+кересэнь кель<br/>
+кечуань кель<br/>
+кикуюнь кель<br/>
+кингванань кель<br/>
+киргизэнь кель<br/>
+китубань кель<br/>
+кишень кель<br/>
+коминь кель<br/>
+конгонь кель<br/>
+кореянь кель<br/>
+кпеллень кель<br/>
+крикень кель<br/>
+кринь кель<br/>
+кровонь кель<br/>
+курдонь кель<br/>
+кымринь кель, валлиень кель<br/>
+лаонь кель<br/>
+латинэнь кель<br/>
+латышень кель<br/>
+литовонь кель<br/>
+лубань кель<br/>
+луонь кель<br/>
+люксембургонь кель<br/>
+магахонь кель<br/>
+мадуронь кель<br/>
+майтилень кель<br/>
+македононь кель<br/>
+малагашонь кель<br/>
+малаень кель<br/>
+малаяламонь кель<br/>
+малинкень кель<br/>
+мальтань кель<br/>
+мандаринэнь кель, китаень кель<br/>
+маоринь кель<br/>
+маратинь кель<br/>
+масаень кель<br/>
+мендень кель<br/>
+миаонь кель<br/>
+микмаконь кель<br/>
+минангкабаунь кель<br/>
+минэнь кель, китаень кель<br/>
+мокшонь кель<br/>
+монголонь кель<br/>
+монгонь кель<br/>
+морень кель<br/>
+мурнгинэнь кель<br/>
+навахонь кель<br/>
+нагуатлонь кель<br/>
+наскапонь кель<br/>
+нгалань кель<br/>
+нгулунь кель<br/>
+немецень кель<br/>
+непалонь кель<br/>
+норвегиянь кель<br/>
+нямвезэнь кель<br/>
+нянджань кель<br/>
+оджибвань кель<br/>
+ориянь кель<br/>
+оромонь кель<br/>
+панаень кель<br/>
+папагонь кель<br/>
+папияментонь кель<br/>
+паштонь кель<br/>
+пейджинэнь кель, англань кель<br/>
+польшань кель<br/>
+португалонь кель<br/>
+провенциялонь кель<br/>
+пунджабонь кель<br/>
+раястанонь кель<br/>
+романшонь кель<br/>
+руандань кель<br/>
+рузонь кель<br/>
+румынэнь кель<br/>
+рундинь кель<br/>
+саамонь кель<br/>
+самоань кель<br/>
+сангонь кель<br/>
+санскритэнь кель<br/>
+санталонь кель<br/>
+сарань кель<br/>
+свазинь кель<br/>
+свахилинь кель<br/>
+сербень кель<br/>
+синдинь кель<br/>
+синхалонь кель<br/>
+словаконь кель<br/>
+словенэнь кель<br/>
+сомалинь кель<br/>
+сотонь кель<br/>
+сукумань кель<br/>
+сунданонь кель<br/>
+тагалогонь кель<br/>
+таджикень кель<br/>
+таень кель<br/>
+тамилэнь кель<br/>
+татаронь кель<br/>
+тахитинь кель<br/>
+твинь кель<br/>
+телугунь кель<br/>
+темнень кель<br/>
+тибетань кель<br/>
+тигринянь кель<br/>
+тонганонь кель<br/>
+тонгань кель<br/>
+тонгань кель<br/>
+тумбукань кель<br/>
+туркменэнь кель<br/>
+тюрконь кель<br/>
+удмуртонь кель<br/>
+узбекень кель<br/>
+уйгуронь кель<br/>
+украинэнь кель<br/>
+умбундунь кель<br/>
+урдунь кель<br/>
+фангонь кель<br/>
+фаронь кель<br/>
+фарсинь кель<br/>
+фиджинь кель<br/>
+финнэнь кель<br/>
+французонь кель<br/>
+фризэнь кель<br/>
+фуланонь кель<br/>
+хиндусонь кель<br/>
+хмерэнь кель<br/>
+хмонгонь кель<br/>
+хозань кель<br/>
+хорватонь кель<br/>
+цванань кель<br/>
+цебуанонь кель<br/>
+цонгань кель<br/>
+чаморронь кель<br/>
+черокень кель<br/>
+чехень кель<br/>
+чеченэнь кель<br/>
+чикасавонь кель<br/>
+чоктавонь кель<br/>
+чуангонь кель<br/>
+чуважонь кель, ветькень кель<br/>
+шанонь кель<br/>
+шведэнь кель<br/>
+шлухонь кель<br/>
+шонань кель<br/>
+шотландонь кель<br/>
+эрзянь кель<br/>
+эсперантонь кель<br/>
+эстэнь кель<br/>
+эфикень кель<br/>
+юкатекень кель<br/>
+юнь кель<br/>
+юпикень кель, эскимосонь кель<br/>
+явань кель<br/>
+якутонь кель<br/>
+яонь кель<br/>
 япононь </p>
 
 </r>
