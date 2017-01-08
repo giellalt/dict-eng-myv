@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<r xml:lang="eng">
-<e><lg><l pos="Num">one</l></lg><mg><tg xml:lang="myv"><t pos="Num">вейке, ве</t></tg></mg></e>
+<r id="engmyv" xml:lang="eng">
+<e><lg><l pos="Num">one</l></lg><mg><tg xml:lang="myv"><t pos="Num">вейке</t><t pos="Num">ве</t></tg></mg></e>
 <e><lg><l pos="Num">two</l></lg><mg><tg xml:lang="myv"><t pos="Num">кавто</t></tg></mg></e>
 <e><lg><l pos="Num">three</l></lg><mg><tg xml:lang="myv"><t pos="Num">колмо</t></tg></mg></e>
 <e><lg><l pos="Num">four</l></lg><mg><tg xml:lang="myv"><t pos="Num">ниле</t></tg></mg></e>
@@ -25,7 +25,7 @@
 <e><lg><l pos="Num">billiard</l></lg><mg><tg xml:lang="myv"><t pos="Num">бильярд</t></tg></mg></e>
 <e><lg><l pos="Num">billion</l></lg><mg><tg xml:lang="myv"><t pos="Num">миллиард</t></tg></mg></e>
 <e><lg><l pos="Num">seven</l></lg><mg><tg xml:lang="myv"><t pos="Num">сисем</t></tg></mg></e>
-<e><lg><l pos="Num">seventeen</l></lg><mg><tg xml:lang="myv"><t pos="Num">кемзисемге, кемсисемге</t></tg></mg></e>
+<e><lg><l pos="Num">seventeen</l></lg><mg><tg xml:lang="myv"><t pos="Num">кемзисемге</t></tg></mg></e>
 <e><lg><l pos="Num">seventy</l></lg><mg><tg xml:lang="myv"><t pos="Num">сизгемень</t></tg></mg></e>
 <e><lg><l pos="Num">thirteen</l></lg><mg><tg xml:lang="myv"><t pos="Num">кемголмово</t></tg></mg></e>
 <e><lg><l pos="Num">thirty</l></lg><mg><tg xml:lang="myv"><t pos="Num">колоньгемень</t></tg></mg></e>

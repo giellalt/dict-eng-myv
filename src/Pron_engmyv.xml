@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<r xml:lang="eng">
-<e><lg><l pos="Pron">anybody</l></lg><mg><tg xml:lang="myv"><t pos="Pron">кияк, кие мелеть</t></tg></mg></e>
+<r id="engmyv" xml:lang="eng">
+<e><lg><l pos="Pron">anybody</l></lg><mg><tg xml:lang="myv"><t pos="Pron">кияк</t><t pos="Pron">кие мелеть</t></tg></mg></e>
 <e><lg><l pos="Pron">anyone</l></lg><mg><tg xml:lang="myv"><t pos="Pron">кияк</t></tg></mg></e>
-<e><lg><l pos="Pron">anything</l></lg><mg><tg xml:lang="myv"><t pos="Pron">мезеяк, мезе понгсь</t></tg></mg></e>
-<e><lg><l pos="Pron">both</l></lg><mg><tg xml:lang="myv"><t pos="Pron">кавоненек, кавоненк, кавонест</t></tg></mg></e>
+<e><lg><l pos="Pron">anything</l></lg><mg><tg xml:lang="myv"><t pos="Pron">мезеяк</t><t pos="Pron">мезе понгсь</t></tg></mg></e>
+<e><lg><l pos="Pron">both</l></lg><mg><tg xml:lang="myv"><t pos="Pron">кавоненек</t><t pos="Pron">кавоненк</t><t pos="Pron">кавонест</t></tg></mg></e>
 <e><lg><l pos="Pron">each other</l></lg><mg><tg xml:lang="myv"><t pos="Pron">вейке-вейке</t></tg></mg></e>
 <e><lg><l pos="Pron">everybody</l></lg><mg><tg xml:lang="myv"><t pos="Pron">эрьватась</t></tg></mg></e>
 <e><lg><l pos="Pron">everything</l></lg><mg><tg xml:lang="myv"><t pos="Pron">эрьвась</t></tg></mg></e>
 <e><lg><l pos="Pron">he</l></lg><mg><tg xml:lang="myv"><t pos="Pron">сон (грамматикань цёрасымень)</t></tg></mg></e>
-<e><lg><l pos="Pron">her</l></lg><mg><tg xml:lang="myv"><t pos="Pron">сонзэ</t></tg></mg><mg><tg xml:lang="myv"><t pos="Pron">сонензэ, тензэ</t></tg></mg></e>
-<e><lg><l pos="Pron">him</l></lg><mg><tg xml:lang="myv"><t pos="Pron">(грамматикань цёрасымень) сонзэ</t></tg></mg><mg><tg xml:lang="myv"><t pos="Pron">сонензэ, тензэ</t></tg></mg></e>
+<e><lg><l pos="Pron">her</l></lg><mg><tg xml:lang="myv"><t pos="Pron">сонзэ</t></tg></mg><mg><tg xml:lang="myv"><t pos="Pron">сонензэ</t><t pos="Pron">тензэ</t></tg></mg></e>
+<e><lg><l pos="Pron">him</l></lg><mg><tg xml:lang="myv"><t pos="Pron">(грамматикань цёрасымень) сонзэ</t></tg></mg><mg><tg xml:lang="myv"><t pos="Pron">сонензэ</t><t pos="Pron">тензэ</t></tg></mg></e>
 <e><lg><l pos="Pron">his</l></lg><mg><tg xml:lang="myv"><t pos="Pron">сонзэ</t></tg></mg></e>
 <e><lg><l pos="Pron">I</l></lg><mg><tg xml:lang="myv"><t pos="Pron"> мон</t></tg></mg></e>
 <e><lg><l pos="Pron">it</l></lg><mg><tg xml:lang="myv"><t pos="Pron">сон</t></tg></mg></e>
-<e><lg><l pos="Pron">me</l></lg><mg><tg xml:lang="myv"><t pos="Pron">монь</t></tg></mg><mg><tg xml:lang="myv"><t pos="Pron">монень, тень</t></tg></mg></e>
+<e><lg><l pos="Pron">me</l></lg><mg><tg xml:lang="myv"><t pos="Pron">монь</t></tg></mg><mg><tg xml:lang="myv"><t pos="Pron">монень</t><t pos="Pron">тень</t></tg></mg></e>
 <e><lg><l pos="Pron">mine</l></lg><mg><tg xml:lang="myv"><t pos="Pron">монь</t></tg></mg></e>
 <e><lg><l pos="Pron">neither</l></lg><mg><tg xml:lang="myv"><t pos="Pron">конаськак (кавонест эйстэ)</t></tg></mg></e>
 <e><lg><l pos="Pron">nobody</l></lg><mg><tg xml:lang="myv"><t pos="Pron">кияк</t></tg></mg></e>
 <e><lg><l pos="Pron">none</l></lg><mg><tg xml:lang="myv"><t pos="Pron">(object) вейкеяк</t></tg></mg></e>
 <e><lg><l pos="Pron">ourselves</l></lg><mg><tg xml:lang="myv"><t pos="Pron">эсь прянок</t></tg></mg></e>
 <e><lg><l pos="Pron">she</l></lg><mg><tg xml:lang="myv"><t pos="Pron">сон (авань сыме)</t></tg></mg></e>
-<e><lg><l pos="Pron">somebody</l></lg><mg><tg xml:lang="myv"><t pos="Pron">та-кие, кияк, кие-бути</t></tg></mg></e>
-<e><lg><l pos="Pron">something</l></lg><mg><tg xml:lang="myv"><t pos="Pron">та-мезе, мезеяк, мезе-бути</t></tg></mg></e>
+<e><lg><l pos="Pron">somebody</l></lg><mg><tg xml:lang="myv"><t pos="Pron">та-кие</t><t pos="Pron">кияк</t><t pos="Pron">кие-бути</t></tg></mg></e>
+<e><lg><l pos="Pron">something</l></lg><mg><tg xml:lang="myv"><t pos="Pron">та-мезе</t><t pos="Pron">мезеяк</t><t pos="Pron">мезе-бути</t></tg></mg></e>
 <e><lg><l pos="Pron">their</l></lg><mg><tg xml:lang="myv"><t pos="Pron">сынст</t></tg></mg></e>
 <e><lg><l pos="Pron">them</l></lg><mg><tg xml:lang="myv"><t pos="Pron">сынст</t></tg></mg></e>
 <e><lg><l pos="Pron">themselves</l></lg><mg><tg xml:lang="myv"><t pos="Pron">эсь пряст</t></tg></mg></e>
 <e><lg><l pos="Pron">these</l></lg><mg><tg xml:lang="myv"><t pos="Pron">нетне</t></tg></mg></e>
 <e><lg><l pos="Pron">they</l></lg><mg><tg xml:lang="myv"><t pos="Pron">сынь</t></tg></mg></e>
-<e><lg><l pos="Pron">us</l></lg><mg><tg xml:lang="myv"><t pos="Pron">(obj) минек</t></tg></mg><mg><tg xml:lang="myv"><t pos="Pron">(to us) миненек, тенек</t></tg></mg></e>
+<e><lg><l pos="Pron">us</l></lg><mg><tg xml:lang="myv"><t pos="Pron">(obj) минек</t></tg></mg><mg><tg xml:lang="myv"><t pos="Pron">(to us) миненек</t><t pos="Pron">тенек</t></tg></mg></e>
 <e><lg><l pos="Pron">we</l></lg><mg><tg xml:lang="myv"><t pos="Pron">минь</t></tg></mg></e>
 <e><lg><l pos="Pron">what</l></lg><mg><tg xml:lang="myv"><t pos="Pron">мезе</t></tg></mg></e>
 <e><lg><l pos="Pron">whatever</l></lg><mg><tg xml:lang="myv"><t pos="Pron">мезе илязо (+теемавал)…</t></tg></mg></e>
-<e><lg><l pos="Pron">who</l></lg><mg><tg xml:lang="myv"><t pos="Pron">ки, кие</t></tg></mg><mg><tg xml:lang="myv"><t pos="Pron">кона</t></tg></mg></e>
+<e><lg><l pos="Pron">who</l></lg><mg><tg xml:lang="myv"><t pos="Pron">ки</t><t pos="Pron">кие</t></tg></mg><mg><tg xml:lang="myv"><t pos="Pron">кона</t></tg></mg></e>
 <e><lg><l pos="Pron">whoever</l></lg><mg><tg xml:lang="myv"><t pos="Pron">кие илязо (+теемавал)</t></tg></mg></e>
 <e><lg><l pos="Pron">whom</l></lg><mg><tg xml:lang="myv"><t pos="Pron">кинь</t></tg></mg><mg><tg xml:lang="myv"><t pos="Pron">кинень</t></tg></mg><mg><tg xml:lang="myv"><t pos="Pron">конань</t></tg></mg><mg><tg xml:lang="myv"><t pos="Pron">конанень</t></tg></mg></e>
 <e><lg><l pos="Pron">whose</l></lg><mg><tg xml:lang="myv"><t pos="Pron">кинь</t></tg></mg></e>

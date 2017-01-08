@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<r xml:lang="eng">
+<r id="engmyv" xml:lang="eng">
 <e><lg><l pos="CS">although</l></lg><mg><tg xml:lang="myv"><t pos="CS">кадык</t></tg></mg></e>
 <e><lg><l pos="CS">as soon as</l></lg><mg><tg xml:lang="myv"><t pos="CS">кодак</t></tg></mg></e>
 <e><lg><l pos="CS">because</l></lg><mg><tg xml:lang="myv"><t pos="CS">секскак, (сказуемой + подлежащей)</t></tg><xg><x>I couldn't get to sleep, because a dog was barking.</x><xt>Эзинь матедеве, онгось киска</xt></xg></mg></e>

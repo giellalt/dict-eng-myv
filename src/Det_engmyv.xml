@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<r xml:lang="eng">
+<r id="engmyv" xml:lang="eng">
 <e><lg><l pos="Det" type="Art">a</l></lg><mg><tg xml:lang="myv"><t>(гласнойде икеле an)</t><t>аволь определённой артикл</t></tg><xg><x>bananas cost fifty cents a kilo</x><xt>(бананань) ведьгемень сентт килозо</xt></xg></mg></e>
 <e><lg><l pos="Det" type="Qnt">a lot of</l></lg><mg><tg xml:lang="myv"><t pos="Qnt">ламо</t></tg></mg></e>
 <e><lg><l pos="Det" type="Art">the</l></lg><mg><tg xml:lang="myv"><t pos="Art">-ось/-эсь/-есь/-сь</t></tg></mg><mg><tg xml:lang="myv"><t pos="Art">-тне/-тнэ</t></tg></mg></e>
@@ -9,16 +9,16 @@
 <e><lg><l pos="Det" type="Ord">first</l></lg><mg><tg xml:lang="myv"><t pos="Det">васень</t></tg></mg><mg><tg xml:lang="myv"><t pos="Det">васенце</t></tg></mg></e>
 <e><lg><l pos="Det" type="Ord">following</l></lg><mg><tg xml:lang="myv"><t pos="Det">омбоце</t></tg></mg><mg><tg xml:lang="myv"><t pos="Det">седе мейле</t></tg></mg></e>
 <e><lg><l pos="Det" type="Ord">fourth</l></lg><mg><tg xml:lang="myv"><t pos="Det">нилеце</t></tg></mg></e>
-<e><lg><l pos="Det" type="Ord">initial</l></lg><mg><tg xml:lang="myv"><t pos="Det">васенце, васень</t></tg></mg></e>
+<e><lg><l pos="Det" type="Ord">initial</l></lg><mg><tg xml:lang="myv"><t pos="Det">васенце</t><t pos="Det">васень</t></tg></mg></e>
 <e><lg><l pos="Det" type="Ord">last</l></lg><mg><tg xml:lang="myv"><t pos="Det">меельце</t></tg></mg></e>
 <e><lg><l pos="Det" type="Ord">latest</l></lg><mg><tg xml:lang="myv"><t pos="Det">меельце</t></tg></mg></e>
-<e><lg><l pos="Det" type="Ord">next</l></lg><mg><tg xml:lang="myv"><t pos="Det">мельга молиця, малаце</t></tg></mg></e>
+<e><lg><l pos="Det" type="Ord">next</l></lg><mg><tg xml:lang="myv"><t pos="Det">мельга молиця</t><t pos="Det">малаце</t></tg></mg></e>
 <e><lg><l pos="Det" type="Ord">ninth</l></lg><mg><tg xml:lang="myv"><t pos="Det">вейксэце</t></tg></mg></e>
-<e><lg><l pos="Det">other</l></lg><mg><tg xml:lang="myv"><t pos="Det">тона, омбо</t></tg></mg></e>
+<e><lg><l pos="Det">other</l></lg><mg><tg xml:lang="myv"><t pos="Det">тона</t><t pos="Det">омбо</t></tg></mg></e>
 <e><lg><l pos="Det" type="Ord">second</l></lg><mg><tg xml:lang="myv"><t pos="Det">омбоце</t></tg></mg></e>
 <e><lg><l pos="Det" type="Ord">seventh</l></lg><mg><tg xml:lang="myv"><t pos="Det">сисемеце</t></tg></mg></e>
 <e><lg><l pos="Det" type="Ord">sixth</l></lg><mg><tg xml:lang="myv"><t pos="Det">котоце</t></tg></mg></e>
 <e><lg><l pos="Det" type="Ord">tenth</l></lg><mg><tg xml:lang="myv"><t pos="Det">кеменце</t></tg></mg></e>
 <e><lg><l pos="Det" type="Ord">third</l></lg><mg><tg xml:lang="myv"><t pos="Det">колмоце</t></tg></mg></e>
-<e><lg><l pos="Det" type="Ord">ultimate</l></lg><mg><tg xml:lang="myv"><t pos="Det">остатка, меельце</t></tg></mg></e>
+<e><lg><l pos="Det" type="Ord">ultimate</l></lg><mg><tg xml:lang="myv"><t pos="Det">остатка</t><t pos="Det">меельце</t></tg></mg></e>
 </r>
