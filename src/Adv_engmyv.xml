@@ -6,15 +6,15 @@
 <e><lg><l pos="Adv">accidentally</l></lg><mg><tg xml:lang="myv"><t pos="Adv">апак учо</t></tg></mg></e>
 <e><lg><l pos="Adv">accordingly</l></lg><mg><tg xml:lang="myv"><t pos="Adv">??тень коряс</t></tg></mg></e>
 <e><lg><l pos="Adv">actually</l></lg><mg><tg xml:lang="myv"><t pos="Adv">алкукскак</t></tg></mg></e>
-<e><lg><l pos="Adv">afloat</l></lg><mg><tg xml:lang="myv"><t pos="Adv"></t></tg><xg><x>be afloat </x><xt>уемс (ведь лангсо)</xt></xg></mg></e>
+<e><lg><l pos="Adv">afloat</l></lg><mg><tg xml:lang="myv"><t pos="Adv"></t></tg><xg><x>be afloat </x><xt xml:lang="myv">уемс (ведь лангсо)</xt></xg></mg></e>
 <e><lg><l pos="Adv">after</l></lg><mg><tg xml:lang="myv"><t pos="Adv">мейле</t></tg></mg></e>
 <e><lg><l pos="Adv">afterwards</l></lg><mg><tg xml:lang="myv"><t pos="Adv">седе мейле</t><t pos="Adv">мейле</t></tg></mg></e>
 <e><lg><l pos="Adv">again</l></lg><mg><tg xml:lang="myv"><t pos="Adv">таго</t><t pos="Adv">одов</t></tg></mg></e>
-<e><lg><l pos="Adv">ago</l></lg><mg><tg xml:lang="myv"><t pos="Adv">икеле</t></tg><xg><x>two weeks ago </x><xt>кавто недлядо икеле</xt></xg></mg></e>
+<e><lg><l pos="Adv">ago</l></lg><mg><tg xml:lang="myv"><t pos="Adv">икеле</t></tg><xg><x>two weeks ago </x><xt xml:lang="myv">кавто недлядо икеле</xt></xg></mg></e>
 <e><lg><l pos="Adv">ahead</l></lg><mg><tg xml:lang="myv"><t pos="Adv">икелепеле</t></tg></mg><mg><tg xml:lang="myv"><t pos="Adv">икелепелев</t></tg></mg></e>
 <e><lg><l pos="Adv">allegedly</l></lg><mg><tg xml:lang="myv"><t pos="Adv">келя</t></tg></mg></e>
 <e><lg><l pos="Adv">almost</l></lg><mg><tg xml:lang="myv"><t pos="Adv">малав</t></tg></mg></e>
-<e><lg><l pos="Adv">alone</l></lg><mg><tg xml:lang="myv"><t pos="Adv"></t></tg><xg><x>I alone, you alone, s/he alone, we alone, you alone, they alone </x><xt>ськамон, ськамот, ськамонзо, ськамонок, ськамонк, ськамост</xt></xg></mg></e>
+<e><lg><l pos="Adv">alone</l></lg><mg><tg xml:lang="myv"><t pos="Adv"></t></tg><xg><x>I alone, you alone, s/he alone, we alone, you alone, they alone </x><xt xml:lang="myv">ськамон, ськамот, ськамонзо, ськамонок, ськамонк, ськамост</xt></xg></mg></e>
 <e><lg><l pos="Adv">aloud</l></lg><mg><tg xml:lang="myv"><t pos="Adv">марямга</t></tg></mg></e>
 <e><lg><l pos="Adv">already</l></lg><mg><tg xml:lang="myv"><t pos="Adv">уш</t></tg></mg></e>
 <e><lg><l pos="Adv">also</l></lg><mg><tg xml:lang="myv"><t pos="Adv">истя жо</t><t pos="Adv">-гак/-як/-как/-ак</t></tg></mg></e>
@@ -32,10 +32,10 @@
 <e><lg><l pos="Adv">arrogant</l></lg><mg><tg xml:lang="myv"><t pos="Adv">нерень кепеди</t></tg></mg></e>
 <e><lg><l pos="Adv">as</l></lg><mg><tg xml:lang="myv"><t pos="Adv">кода</t></tg></mg></e>
 <e><lg><l pos="Adv">ashore</l></lg><mg><tg xml:lang="myv"><t pos="Adv">мода лангсо</t></tg></mg></e>
-<e><lg><l pos="Adv">asleep</l></lg><mg><tg xml:lang="myv"><t pos="Adv"></t></tg><xg><x>be asleep </x><xt>удомс</xt></xg></mg></e>
+<e><lg><l pos="Adv">asleep</l></lg><mg><tg xml:lang="myv"><t pos="Adv"></t></tg><xg><x>be asleep </x><xt xml:lang="myv">удомс</xt></xg></mg></e>
 <e><lg><l pos="Adv">astray</l></lg><mg><tg xml:lang="myv"><t pos="Adv">ёнксонь ёмавтозь</t></tg></mg></e>
-<e><lg><l pos="Adv">audibly</l></lg><mg><tg xml:lang="myv"><t pos="Adv">марямга</t></tg><xg><x>barely audibly </x><xt>цють марявомга</xt></xg></mg></e>
-<e><lg><l pos="Adv">away</l></lg><mg><tg xml:lang="myv"><t pos="Adv">аволь таркасонзо</t></tg><xg><x>go away </x><xt>туемс</xt></xg></mg></e>
+<e><lg><l pos="Adv">audibly</l></lg><mg><tg xml:lang="myv"><t pos="Adv">марямга</t></tg><xg><x>barely audibly </x><xt xml:lang="myv">цють марявомга</xt></xg></mg></e>
+<e><lg><l pos="Adv">away</l></lg><mg><tg xml:lang="myv"><t pos="Adv">аволь таркасонзо</t></tg><xg><x>go away </x><xt xml:lang="myv">туемс</xt></xg></mg></e>
 <e><lg><l pos="Adv">back</l></lg><mg><tg xml:lang="myv"><t pos="Adv">мекев</t></tg></mg></e>
 <e><lg><l pos="Adv">backwards</l></lg><mg><tg xml:lang="myv"><t pos="Adv">мекевлангт</t></tg></mg></e>
 <e><lg><l pos="Adv">badly</l></lg><mg><tg xml:lang="myv"><t pos="Adv">пек</t></tg></mg></e>
@@ -153,7 +153,7 @@
 <e><lg><l pos="Adv">outside</l></lg><mg><tg xml:lang="myv"><t pos="Adv">(open) ушов</t><t pos="Adv">ушосо</t><t pos="Adv">ушова</t></tg></mg></e>
 <e><lg><l pos="Adv">over</l></lg><mg><tg xml:lang="myv"><t pos="Adv">(remaining) лиядкс</t><t pos="Adv">кадовикс</t></tg></mg></e>
 <e><lg><l pos="Adv">particularly</l></lg><mg><tg xml:lang="myv"><t pos="Adv">весемеде пек</t></tg></mg></e>
-<e><lg><l pos="Adv">past</l></lg><mg><tg xml:lang="myv"><t pos="Adv">вакска</t></tg><xg><x>walk past </x><xt>ютамс вакска</xt></xg></mg></e>
+<e><lg><l pos="Adv">past</l></lg><mg><tg xml:lang="myv"><t pos="Adv">вакска</t></tg><xg><x>walk past </x><xt xml:lang="myv">ютамс вакска</xt></xg></mg></e>
 <e><lg><l pos="Adv">perhaps</l></lg><mg><tg xml:lang="myv"><t pos="Adv">паряк</t><t pos="Adv">кие соды</t></tg></mg></e>
 <e><lg><l pos="Adv">plain</l></lg><mg><tg xml:lang="myv"><t pos="Adv">эрьва чинь</t></tg></mg></e>
 <e><lg><l pos="Adv">please</l></lg><mg><tg xml:lang="myv"><t pos="Adv">инескеть</t></tg></mg></e>

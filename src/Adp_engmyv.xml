@@ -4,7 +4,7 @@
 <e><lg><l pos="Pr">about</l></lg><mg><tg xml:lang="myv"><t pos="Po">ланга</t><t pos="Suf">-до</t><t pos="Po">перька</t></tg></mg></e>
 <e><lg><l pos="Pr">above</l></lg><mg><tg xml:lang="myv"><t pos="Po">вельксс</t></tg></mg><mg><tg xml:lang="myv"><t pos="Po">велькссэ</t></tg></mg><mg><tg xml:lang="myv"><t pos="Po">велькска</t></tg></mg></e>
 <e><lg><l pos="Pr">according  to</l></lg><mg><tg xml:lang="myv"><t pos="Po">коряс</t></tg></mg></e>
-<e><lg><l pos="Pr">across</l></lg><mg><tg xml:lang="myv"><t pos="Po">трокс</t></tg></mg><mg><tg xml:lang="myv"><t pos="Po">каршо</t></tg><xg><x>they live across from us  </x><xt>сынь эрить минек каршо</xt></xg></mg></e>
+<e><lg><l pos="Pr">across</l></lg><mg><tg xml:lang="myv"><t pos="Po">трокс</t></tg></mg><mg><tg xml:lang="myv"><t pos="Po">каршо</t></tg><xg><x>they live across from us  </x><xt xml:lang="myv">сынь эрить минек каршо</xt></xg></mg></e>
 <e><lg><l pos="Pr">after</l></lg><mg><tg xml:lang="myv"><t pos="Po">мельга</t><t pos="Po">кисэ</t></tg></mg></e>
 <e><lg><l pos="Pr">against</l></lg><mg><tg xml:lang="myv"><t pos="Po">каршо</t></tg></mg></e>
 <e><lg><l pos="Pr">along</l></lg><mg><tg xml:lang="myv"><t pos="Po">марто</t></tg></mg></e>
@@ -13,7 +13,7 @@
 <e><lg><l pos="Pr">as</l></lg><mg><tg xml:lang="myv"><t pos="Suf">-кс</t><t pos="Po">кода</t><t pos="Po">прок</t></tg></mg></e>
 <e><lg><l pos="Pr">as far as</l></lg><mg><tg xml:lang="myv"><t pos="Po">видьс</t></tg></mg></e>
 <e><lg><l pos="Pr">at</l></lg><mg><tg xml:lang="myv"><t pos="Suf">-со\-сэ</t></tg></mg><mg><tg xml:lang="myv"><t pos="Po">лангс</t></tg></mg></e>
-<e><lg><l pos="Pr">behind</l></lg><mg><tg xml:lang="myv"><t pos="Po">удало</t></tg><xg><x>he is behind me </x><xt>сон удалон</xt></xg></mg></e>
+<e><lg><l pos="Pr">behind</l></lg><mg><tg xml:lang="myv"><t pos="Po">удало</t></tg><xg><x>he is behind me </x><xt xml:lang="myv">сон удалон</xt></xg></mg></e>
 <e><lg><l pos="Pr">below</l></lg><mg><tg xml:lang="myv"><t pos="Po">алов</t></tg></mg><mg><tg xml:lang="myv"><t pos="Po">ало</t></tg></mg></e>
 <e><lg><l pos="Pr">beneath</l></lg><mg><tg xml:lang="myv"><t pos="Po">алов</t><t pos="Po">ало</t></tg></mg></e>
 <e><lg><l pos="Pr">beside</l></lg><mg><tg xml:lang="myv"><t pos="Po">вакссо</t></tg></mg></e>

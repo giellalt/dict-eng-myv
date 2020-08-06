@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <r id="engmyv" xml:lang="eng">
-<e><lg><l pos="N">a</l></lg><mg><tg xml:lang="myv"><t pos="N">а тешксэсь</t></tg><xg><x>from A to B</x> <xt>ве таркасто омбоцес</xt></xg><xg><x>from A to Z</x> <xt>педе пес</xt></xg><xg><x>not know from A to B</x> <xt>мезеяк а содамс</xt></xg></mg></e>
+<e><lg><l pos="N">a</l></lg><mg><tg xml:lang="myv"><t pos="N">а тешксэсь</t></tg><xg><x>from A to B</x> <xt xml:lang="myv">ве таркасто омбоцес</xt></xg><xg><x>from A to Z</x> <xt xml:lang="myv">педе пес</xt></xg><xg><x>not know from A to B</x> <xt xml:lang="myv">мезеяк а содамс</xt></xg></mg></e>
 <e><lg><l pos="N">abbreviation</l></lg><mg><tg xml:lang="myv"><t pos="N">киртянь вал</t></tg></mg></e>
 <e><lg><l pos="N">ABC's</l></lg><mg><tg xml:lang="myv"><t pos="N">алфавит</t></tg></mg></e>
 <e><lg><l pos="N">abdomen</l></lg><mg><tg xml:lang="myv"><t pos="N">пеке</t></tg></mg></e>
 <e><lg><l pos="N">abduction</l></lg><mg><tg xml:lang="myv"><t pos="N">ломанень саламо</t></tg></mg></e>
 <e><lg><l pos="N">ability</l></lg><mg><tg xml:lang="myv"><t pos="N">ёрокчи</t><t pos="N">маштомачи</t></tg></mg></e>
 <e><lg><l pos="N">aborigine</l></lg><mg><tg xml:lang="myv"><t pos="N">абориген</t></tg></mg></e>
-<e><lg><l pos="N">abortion</l></lg><mg><tg xml:lang="myv"><t pos="N">эйдень каявтома</t></tg><xg><x>have an abortion </x><xt>каявтомс эйде</xt></xg></mg></e>
+<e><lg><l pos="N">abortion</l></lg><mg><tg xml:lang="myv"><t pos="N">эйдень каявтома</t></tg><xg><x>have an abortion </x><xt xml:lang="myv">каявтомс эйде</xt></xg></mg></e>
 <e><lg><l pos="N">abscess</l></lg><mg><tg xml:lang="myv"><t pos="N">комадоньпал</t><t pos="N">орво</t><t pos="N">сукаодар</t></tg></mg></e>
 <e><lg><l pos="N">absence</l></lg><mg><tg xml:lang="myv"><t pos="N">аразь</t><t pos="N">аразьчи</t></tg></mg></e>
-<e><lg><l pos="N">abundance</l></lg><mg><tg xml:lang="myv"><t pos="N">ламочи</t></tg><xg><x>be in abundance </x><xt>ламочисэ</xt></xg></mg></e>
+<e><lg><l pos="N">abundance</l></lg><mg><tg xml:lang="myv"><t pos="N">ламочи</t></tg><xg><x>be in abundance </x><xt xml:lang="myv">ламочисэ</xt></xg></mg></e>
 <e><lg><l pos="N">abuse</l></lg><mg><tg xml:lang="myv"><t pos="N">атевс нолдамо</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">сёвнома</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">нарьгамо</t></tg></mg></e>
 <e><lg><l pos="N">academy</l></lg><mg><tg xml:lang="myv"><t pos="N">академия</t></tg></mg></e>
 <e><lg><l pos="N">acceleration</l></lg><mg><tg xml:lang="myv"><t pos="N">эрязкадома</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">эрязкавтома</t></tg></mg></e>
@@ -21,7 +21,7 @@
 <e><lg><l pos="N">access</l></lg><mg><tg xml:lang="myv"><t pos="N">доступ</t></tg></mg></e>
 <e><lg><l pos="N">accessories</l></lg><mg><tg xml:lang="myv"><t pos="N">кедьёнксонь запчасть</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">оршамопелень запчасть</t></tg></mg></e>
 <e><lg><l pos="N">accessory</l></lg><mg><tg xml:lang="myv"><t pos="N">преступникнень лездыця</t></tg></mg></e>
-<e><lg><l pos="N">accident</l></lg><mg><tg xml:lang="myv"><t pos="N">зыян</t><t pos="N">авария</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">апак учонь тев</t></tg><xg><x>do something by accident </x><xt>теемс мезеяк апак арсе</xt></xg></mg></e>
+<e><lg><l pos="N">accident</l></lg><mg><tg xml:lang="myv"><t pos="N">зыян</t><t pos="N">авария</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">апак учонь тев</t></tg><xg><x>do something by accident </x><xt xml:lang="myv">теемс мезеяк апак арсе</xt></xg></mg></e>
 <e><lg><l pos="N">accommodation</l></lg><mg><tg xml:lang="myv"><t pos="N">(акуватень) эрямо тарка</t></tg></mg></e>
 <e><lg><l pos="N">accompaniment</l></lg><mg><tg xml:lang="myv"><t pos="N">аккомпанимент</t></tg></mg></e>
 <e><lg><l pos="N">accomplishment</l></lg><mg><tg xml:lang="myv"><t pos="N">??изнявкс</t></tg></mg></e>
@@ -58,7 +58,7 @@
 <e><lg><l pos="N">addition</l></lg><mg><tg xml:lang="myv"><t pos="N">(math) вейспутома</t></tg></mg></e>
 <e><lg><l pos="N">additive</l></lg><mg><tg xml:lang="myv"><t pos="N">добавка</t></tg></mg></e>
 <e><lg><l pos="N">address</l></lg><mg><tg xml:lang="myv"><t pos="N">(place) адрес</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">(speech) (ломань икеле) кортамо</t></tg></mg></e>
-<e><lg><l pos="N">adherence</l></lg><mg><tg xml:lang="myv"><t pos="N">мельс саема</t></tg><xg><x>be in adherence with </x><xt>саемс мельс</xt></xg></mg></e>
+<e><lg><l pos="N">adherence</l></lg><mg><tg xml:lang="myv"><t pos="N">мельс саема</t></tg><xg><x>be in adherence with </x><xt xml:lang="myv">саемс мельс</xt></xg></mg></e>
 <e><lg><l pos="N">adjective</l></lg><mg><tg xml:lang="myv"><t pos="N">лемтюс</t><t pos="N">прилогательной</t></tg></mg></e>
 <e><lg><l pos="N">adjustment</l></lg><mg><tg xml:lang="myv"><t pos="N">ладямо</t></tg></mg></e>
 <e><lg><l pos="N">administration</l></lg><mg><tg xml:lang="myv"><t pos="N">правительства</t><t pos="N">прявткуро</t></tg></mg></e>
@@ -80,18 +80,18 @@
 <e><lg><l pos="N">adversary</l></lg><mg><tg xml:lang="myv"><t pos="N">каршомолиця (эстеть)</t><t pos="N">пельксты ялга</t></tg></mg></e>
 <e><lg><l pos="N">advertisement</l></lg><mg><tg xml:lang="myv"><t pos="N">реклама</t></tg></mg></e>
 <e><lg><l pos="N">advertising</l></lg><mg><tg xml:lang="myv"><t pos="N">рекламань теема</t></tg></mg></e>
-<e><lg><l pos="N">advice</l></lg><mg><tg xml:lang="myv"><t pos="N">превть</t></tg><xg><x>give advice </x><xt>максомс превть</xt><xt>путомс превс</xt></xg></mg></e>
+<e><lg><l pos="N">advice</l></lg><mg><tg xml:lang="myv"><t pos="N">превть</t></tg><xg><x>give advice </x><xt xml:lang="myv">максомс превть</xt><xt xml:lang="myv">путомс превс</xt></xg></mg></e>
 <e><lg><l pos="N">adviser</l></lg><mg><tg xml:lang="myv"><t pos="N">превень максы</t></tg></mg></e>
 <e><lg><l pos="N">aeroplane</l></lg><mg><tg xml:lang="myv"><t pos="N">самолёт</t></tg></mg></e>
 <e><lg><l pos="N">affair</l></lg><mg><tg xml:lang="myv"><t pos="N">(business) тевть</t><t pos="N">эсь тевть</t></tg></mg></e>
 <e><lg><l pos="N">affection</l></lg><mg><tg xml:lang="myv"><t pos="N">вечкема</t></tg></mg></e>
 <e><lg><l pos="N">affidavit</l></lg><mg><tg xml:lang="myv"><t pos="N">видечинь кемекстамо (конёв)</t></tg></mg></e>
-<e><lg><l pos="N">affinity</l></lg><mg><tg xml:lang="myv"><t pos="N">мелень путома</t></tg><xg><x>??have an affinity for something </x><xt>путомс мель мезненьгак</xt></xg></mg></e>
+<e><lg><l pos="N">affinity</l></lg><mg><tg xml:lang="myv"><t pos="N">мелень путома</t></tg><xg><x>??have an affinity for something </x><xt xml:lang="myv">путомс мель мезненьгак</xt></xg></mg></e>
 <e><lg><l pos="N">affliction</l></lg><mg><tg xml:lang="myv"><t pos="N">майсема</t></tg></mg></e>
 <e><lg><l pos="N">affluence</l></lg><mg><tg xml:lang="myv"><t pos="N">эриксчи</t></tg></mg></e>
 <e><lg><l pos="N" type="Prop">Africa</l></lg><mg><tg xml:lang="myv"><t pos="N">Африка</t></tg></mg></e>
 <e><lg><l pos="N">African</l></lg><mg><tg xml:lang="myv"><t pos="N">Африкань ломань</t></tg></mg></e>
-<e><lg><l pos="N">afternoon</l></lg><mg><tg xml:lang="myv"><t pos="N">обедтэ мейле</t></tg><xg><x>in the afternoon </x><xt>обедтэ мейле</xt></xg></mg></e>
+<e><lg><l pos="N">afternoon</l></lg><mg><tg xml:lang="myv"><t pos="N">обедтэ мейле</t></tg><xg><x>in the afternoon </x><xt xml:lang="myv">обедтэ мейле</xt></xg></mg></e>
 <e><lg><l pos="N">age</l></lg><mg><tg xml:lang="myv"><t pos="N">шка (эйде)</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">иеть (ломань)</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">пинге (эпоха)</t></tg></mg></e>
 <e><lg><l pos="N">agency</l></lg><mg><tg xml:lang="myv"><t pos="N">агенства</t></tg></mg></e>
 <e><lg><l pos="N">agenda</l></lg><mg><tg xml:lang="myv"><t pos="N">чинь молемадо сёрмадкс</t></tg></mg></e>
@@ -100,7 +100,7 @@
 <e><lg><l pos="N">aggression</l></lg><mg><tg xml:lang="myv"><t pos="N">агрессия</t><t pos="N">каявома</t></tg></mg></e>
 <e><lg><l pos="N">aggressor</l></lg><mg><tg xml:lang="myv"><t pos="N">каявиця</t><t pos="N">агрессор</t></tg></mg></e>
 <e><lg><l pos="N">agony</l></lg><mg><tg xml:lang="myv"><t pos="N">муцямо</t><t pos="N">сянгоркс</t></tg></mg></e>
-<e><lg><l pos="N">agreement</l></lg><mg><tg xml:lang="myv"><t pos="N">ве мельс само</t></tg><xg><x>come to an agreement </x><xt>самс ве мельс</xt></xg></mg></e>
+<e><lg><l pos="N">agreement</l></lg><mg><tg xml:lang="myv"><t pos="N">ве мельс само</t></tg><xg><x>come to an agreement </x><xt xml:lang="myv">самс ве мельс</xt></xg></mg></e>
 <e><lg><l pos="N">agriculture</l></lg><mg><tg xml:lang="myv"><t pos="N">вельхозяйства</t></tg></mg></e>
 <e><lg><l pos="N">aid</l></lg><mg><tg xml:lang="myv"><t pos="N">лезкс</t></tg></mg></e>
 <e><lg><l pos="N">aide</l></lg><mg><tg xml:lang="myv"><t pos="N">лездыця</t></tg></mg></e>
@@ -321,7 +321,7 @@
 <e><lg><l pos="N">attempt</l></lg><mg><tg xml:lang="myv"><t pos="N">варчавкс</t></tg></mg></e>
 <e><lg><l pos="N">attendance</l></lg><mg><tg xml:lang="myv"><t pos="N">якамо</t></tg></mg></e>
 <e><lg><l pos="N">attendant</l></lg><mg><tg xml:lang="myv"><t pos="N">мельга якиця</t><t pos="N">мельга ваныця</t></tg></mg></e>
-<e><lg><l pos="N">attention</l></lg><mg><tg xml:lang="myv"><t pos="N">мелень явома</t></tg><xg><x>pay attention </x><xt>явомс мель (to something  мезень лангскак)</xt></xg></mg></e>
+<e><lg><l pos="N">attention</l></lg><mg><tg xml:lang="myv"><t pos="N">мелень явома</t></tg><xg><x>pay attention </x><xt xml:lang="myv">явомс мель (to something  мезень лангскак)</xt></xg></mg></e>
 <e><lg><l pos="N">attic</l></lg><mg><tg xml:lang="myv"><t pos="N">кудопотмар</t></tg></mg></e>
 <e><lg><l pos="N">attitude</l></lg><mg><tg xml:lang="myv"><t pos="N">вановкс</t></tg></mg></e>
 <e><lg><l pos="N">attorney</l></lg><mg><tg xml:lang="myv"><t pos="N">адвокат</t><t pos="N">аблокат</t></tg></mg></e>
@@ -473,7 +473,7 @@
 <e><lg><l pos="N">bench</l></lg><mg><tg xml:lang="myv"><t pos="N">скамика</t><t pos="N">скамейка</t></tg></mg></e>
 <e><lg><l pos="N">benefactor</l></lg><mg><tg xml:lang="myv"><t pos="N">лезэнь кандыця</t><t pos="N">паронь теиця</t></tg></mg></e>
 <e><lg><l pos="N">beneficiary</l></lg><mg><tg xml:lang="myv"><t pos="N">лезэнь саиця</t></tg></mg></e>
-<e><lg><l pos="N">benefit</l></lg><mg><tg xml:lang="myv"><t pos="N">лезэ</t></tg><xg><x>to the benefit of somebody </x><xt>киньгак лезэс</xt></xg></mg></e>
+<e><lg><l pos="N">benefit</l></lg><mg><tg xml:lang="myv"><t pos="N">лезэ</t></tg><xg><x>to the benefit of somebody </x><xt xml:lang="myv">киньгак лезэс</xt></xg></mg></e>
 <e><lg><l pos="N">berry</l></lg><mg><tg xml:lang="myv"><t pos="N">марь</t><t pos="N">ягода</t></tg></mg></e>
 <e><lg><l pos="N">bet</l></lg><mg><tg xml:lang="myv"><t pos="N">ярмаконь путома</t></tg></mg></e>
 <e><lg><l pos="N">betrayal</l></lg><mg><tg xml:lang="myv"><t pos="N">миема (ломанень</t><t pos="N">масторонь)</t></tg></mg></e>
@@ -592,14 +592,14 @@
 <e><lg><l pos="N">brandy</l></lg><mg><tg xml:lang="myv"><t pos="N">бренди</t></tg></mg></e>
 <e><lg><l pos="N">brass</l></lg><mg><tg xml:lang="myv"><t pos="N">пиже (метал)</t></tg></mg></e>
 <e><lg><l pos="N">bravery</l></lg><mg><tg xml:lang="myv"><t pos="N">апелема</t></tg></mg></e>
-<e><lg><l pos="N">bread</l></lg><mg><tg xml:lang="myv"><t pos="N">кши</t></tg><xg><x>dark bread </x><xt>раужо кши</xt></xg><xg><x>white bread </x><xt>ашо кши</xt></xg></mg></e>
+<e><lg><l pos="N">bread</l></lg><mg><tg xml:lang="myv"><t pos="N">кши</t></tg><xg><x>dark bread </x><xt xml:lang="myv">раужо кши</xt></xg><xg><x>white bread </x><xt xml:lang="myv">ашо кши</xt></xg></mg></e>
 <e><lg><l pos="N">break</l></lg><mg><tg xml:lang="myv"><t pos="N">(bone) синдемс</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">(rest) ютко (шка)</t><t pos="N">пауза</t></tg></mg></e>
 <e><lg><l pos="N">breakdown</l></lg><mg><tg xml:lang="myv"><t pos="N">(object) каладома</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">(person) превстэ лисема</t></tg></mg></e>
 <e><lg><l pos="N">breakfast</l></lg><mg><tg xml:lang="myv"><t pos="N">валскень ярсамо</t></tg></mg></e>
 <e><lg><l pos="N">breakthrough</l></lg><mg><tg xml:lang="myv"><t pos="N">од изнявкс</t></tg></mg></e>
 <e><lg><l pos="N">breakwater</l></lg><mg><tg xml:lang="myv"><t pos="N">ведьчавовксонь правтома</t></tg></mg></e>
 <e><lg><l pos="N">breast</l></lg><mg><tg xml:lang="myv"><t pos="N">меште</t></tg></mg></e>
-<e><lg><l pos="N">breath</l></lg><mg><tg xml:lang="myv"><t pos="N">оймекошт</t></tg><xg><x>take a breath </x><xt>таргамс ойме(кошт)</xt></xg></mg></e>
+<e><lg><l pos="N">breath</l></lg><mg><tg xml:lang="myv"><t pos="N">оймекошт</t></tg><xg><x>take a breath </x><xt xml:lang="myv">таргамс ойме(кошт)</xt></xg></mg></e>
 <e><lg><l pos="N">breed</l></lg><mg><tg xml:lang="myv"><t pos="N">порода</t></tg></mg></e>
 <e><lg><l pos="N">breeding</l></lg><mg><tg xml:lang="myv"><t pos="N">якавтома</t><t pos="N">раштамо</t></tg></mg></e>
 <e><lg><l pos="N">breeze</l></lg><mg><tg xml:lang="myv"><t pos="N">зэхель</t></tg></mg></e>
@@ -700,7 +700,7 @@
 <e><lg><l pos="N">calculator</l></lg><mg><tg xml:lang="myv"><t pos="N">калькулятор</t></tg></mg></e>
 <e><lg><l pos="N">calendar</l></lg><mg><tg xml:lang="myv"><t pos="N">ковкерькс</t><t pos="N">календарь</t></tg></mg></e>
 <e><lg><l pos="N">calf</l></lg><mg><tg xml:lang="myv"><t pos="N">(animal) ваз</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">(leg) пильгепеке</t></tg></mg></e>
-<e><lg><l pos="N">call</l></lg><mg><tg xml:lang="myv"><t pos="N">(contact) серьгедема</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">(telephone) гайгстамо</t></tg><xg><x>give someone a call </x><xt>гайгстамс киненьгак</xt></xg></mg></e>
+<e><lg><l pos="N">call</l></lg><mg><tg xml:lang="myv"><t pos="N">(contact) серьгедема</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">(telephone) гайгстамо</t></tg><xg><x>give someone a call </x><xt xml:lang="myv">гайгстамс киненьгак</xt></xg></mg></e>
 <e><lg><l pos="N">calmness</l></lg><mg><tg xml:lang="myv"><t pos="N">сэтьме</t><t pos="N">сэтьмечи</t></tg></mg></e>
 <e><lg><l pos="N">calorie</l></lg><mg><tg xml:lang="myv"><t pos="N">калория</t></tg></mg></e>
 <e><lg><l pos="N">camel</l></lg><mg><tg xml:lang="myv"><t pos="N">ишем</t><t pos="N">верблюд</t></tg></mg></e>
@@ -748,7 +748,7 @@
 <e><lg><l pos="N">carcass</l></lg><mg><tg xml:lang="myv"><t pos="N">туша</t></tg></mg></e>
 <e><lg><l pos="N">card</l></lg><mg><tg xml:lang="myv"><t pos="N">карта</t><t pos="N">открытка</t></tg></mg></e>
 <e><lg><l pos="N">cardboard</l></lg><mg><tg xml:lang="myv"><t pos="N">картонка</t></tg></mg></e>
-<e><lg><l pos="N">care</l></lg><mg><tg xml:lang="myv"><t pos="N">мелявкс</t></tg><xg><x>take care of something </x><xt>якамс мезе мельгаяк</xt></xg></mg></e>
+<e><lg><l pos="N">care</l></lg><mg><tg xml:lang="myv"><t pos="N">мелявкс</t></tg><xg><x>take care of something </x><xt xml:lang="myv">якамс мезе мельгаяк</xt></xg></mg></e>
 <e><lg><l pos="N">career</l></lg><mg><tg xml:lang="myv"><t pos="N">карьера</t></tg></mg></e>
 <e><lg><l pos="N">carelessness</l></lg><mg><tg xml:lang="myv"><t pos="N">мелень апутомачи</t></tg></mg></e>
 <e><lg><l pos="N">caress</l></lg><mg><tg xml:lang="myv"><t pos="N">вадяшамо</t><t pos="N">вечкенема</t></tg></mg></e>
@@ -872,7 +872,7 @@
 <e><lg><l pos="N">childbirth</l></lg><mg><tg xml:lang="myv"><t pos="N">чачтома</t></tg></mg></e>
 <e><lg><l pos="N">childhood</l></lg><mg><tg xml:lang="myv"><t pos="N">эйкакшпинге</t></tg></mg></e>
 <e><lg><l pos="N">children</l></lg><mg><tg xml:lang="myv"><t pos="N">эйкакшт</t></tg></mg></e>
-<e><lg><l pos="N">chimney</l></lg><mg><tg xml:lang="myv"><t pos="N">турба (качамо)</t></tg><xg><x>the smoke isn't going out the chimney </x><xt>качамось а лиси турбава</xt></xg></mg></e>
+<e><lg><l pos="N">chimney</l></lg><mg><tg xml:lang="myv"><t pos="N">турба (качамо)</t></tg><xg><x>the smoke isn't going out the chimney </x><xt xml:lang="myv">качамось а лиси турбава</xt></xg></mg></e>
 <e><lg><l pos="N">chimpanzee</l></lg><mg><tg xml:lang="myv"><t pos="N">шимпанзе</t></tg></mg></e>
 <e><lg><l pos="N">chin</l></lg><mg><tg xml:lang="myv"><t pos="N">уло</t></tg></mg></e>
 <e><lg><l pos="N">china</l></lg><mg><tg xml:lang="myv"><t pos="N">фарфор</t></tg></mg></e>
@@ -1052,7 +1052,7 @@
 <e><lg><l pos="N">composer</l></lg><mg><tg xml:lang="myv"><t pos="N">музыка ладси</t></tg></mg></e>
 <e><lg><l pos="N">composure</l></lg><mg><tg xml:lang="myv"><t pos="N">седейкирдема</t></tg></mg></e>
 <e><lg><l pos="N">comprehension</l></lg><mg><tg xml:lang="myv"><t pos="N">превс саевема</t></tg></mg></e>
-<e><lg><l pos="N">compromise</l></lg><mg><tg xml:lang="myv"><t pos="N">ве мельс само</t></tg><xg><x>reach a compromise </x><xt>самс ве мельс</xt></xg></mg></e>
+<e><lg><l pos="N">compromise</l></lg><mg><tg xml:lang="myv"><t pos="N">ве мельс само</t></tg><xg><x>reach a compromise </x><xt xml:lang="myv">самс ве мельс</xt></xg></mg></e>
 <e><lg><l pos="N">computer</l></lg><mg><tg xml:lang="myv"><t pos="N">компьютер</t></tg></mg></e>
 <e><lg><l pos="N">comrade</l></lg><mg><tg xml:lang="myv"><t pos="N">ялга</t></tg></mg></e>
 <e><lg><l pos="N">concentration</l></lg><mg><tg xml:lang="myv"><t pos="N">(вейке тевнень) мелень явома</t></tg></mg></e>
@@ -1088,7 +1088,7 @@
 <e><lg><l pos="N">conquest</l></lg><mg><tg xml:lang="myv"><t pos="N">кедьалов саема (мастор)</t></tg></mg></e>
 <e><lg><l pos="N">conscience</l></lg><mg><tg xml:lang="myv"><t pos="N">совесть</t><t pos="N">чамачи</t></tg></mg></e>
 <e><lg><l pos="N">consciousness</l></lg><mg><tg xml:lang="myv"><t pos="N">ёжо</t></tg></mg></e>
-<e><lg><l pos="N">consensus</l></lg><mg><tg xml:lang="myv"><t pos="N"></t></tg><xg><x>what is the consensus? </x><xt>мезес сынек?</xt></xg></mg></e>
+<e><lg><l pos="N">consensus</l></lg><mg><tg xml:lang="myv"><t pos="N"></t></tg><xg><x>what is the consensus? </x><xt xml:lang="myv">мезес сынек?</xt></xg></mg></e>
 <e><lg><l pos="N">consent</l></lg><mg><tg xml:lang="myv"><t pos="N">мерема</t></tg></mg></e>
 <e><lg><l pos="N">consequence</l></lg><mg><tg xml:lang="myv"><t pos="N">последствия</t><t pos="N">мейлекс</t></tg></mg></e>
 <e><lg><l pos="N">conservation</l></lg><mg><tg xml:lang="myv"><t pos="N">ванстома (илязо ёма)</t></tg></mg></e>
@@ -1131,14 +1131,14 @@
 <e><lg><l pos="N">conversion</l></lg><mg><tg xml:lang="myv"><t pos="N">полавтома</t></tg></mg></e>
 <e><lg><l pos="N">convict</l></lg><mg><tg xml:lang="myv"><t pos="N">пекстазь ломань</t></tg></mg></e>
 <e><lg><l pos="N">conviction</l></lg><mg><tg xml:lang="myv"><t pos="N">(law) чумокс ловома</t></tg></mg></e>
-<e><lg><l pos="N">convulsion</l></lg><mg><tg xml:lang="myv"><t pos="N">(эсьормадо) кулсема</t><t pos="N">(ракамодо) кунст прамо</t></tg><xg><x>go into convulsions </x><xt>кулсемс; кунст прамс</xt></xg></mg></e>
+<e><lg><l pos="N">convulsion</l></lg><mg><tg xml:lang="myv"><t pos="N">(эсьормадо) кулсема</t><t pos="N">(ракамодо) кунст прамо</t></tg><xg><x>go into convulsions </x><xt xml:lang="myv">кулсемс; кунст прамс</xt></xg></mg></e>
 <e><lg><l pos="N">cook</l></lg><mg><tg xml:lang="myv"><t pos="N">пидиця-паниця</t></tg></mg></e>
 <e><lg><l pos="N">cooking</l></lg><mg><tg xml:lang="myv"><t pos="N">пидема-панема</t></tg></mg></e>
 <e><lg><l pos="N">cooperation</l></lg><mg><tg xml:lang="myv"><t pos="N">вейсэнь тев</t></tg></mg></e>
 <e><lg><l pos="N">coordination</l></lg><mg><tg xml:lang="myv"><t pos="N">координировамо</t></tg></mg></e>
 <e><lg><l pos="N">cop</l></lg><mg><tg xml:lang="myv"><t pos="N">полицей</t></tg></mg></e>
 <e><lg><l pos="N">copper</l></lg><mg><tg xml:lang="myv"><t pos="N">пиже (метал)</t></tg></mg></e>
-<e><lg><l pos="N">copy</l></lg><mg><tg xml:lang="myv"><t pos="N">копия</t></tg><xg><x>make a copy  </x><xt>теемс копия (of something мезе лангстояк)</xt></xg></mg></e>
+<e><lg><l pos="N">copy</l></lg><mg><tg xml:lang="myv"><t pos="N">копия</t></tg><xg><x>make a copy  </x><xt xml:lang="myv">теемс копия (of something мезе лангстояк)</xt></xg></mg></e>
 <e><lg><l pos="N">coral</l></lg><mg><tg xml:lang="myv"><t pos="N">корал</t></tg></mg></e>
 <e><lg><l pos="N">cord</l></lg><mg><tg xml:lang="myv"><t pos="N">пикс</t></tg></mg></e>
 <e><lg><l pos="N">core</l></lg><mg><tg xml:lang="myv"><t pos="N">(умарень) седей</t></tg></mg></e>
@@ -1266,7 +1266,7 @@
 <e><lg><l pos="N">daughter-in-law</l></lg><mg><tg xml:lang="myv"><t pos="N">урьва</t></tg></mg></e>
 <e><lg><l pos="N">dawn</l></lg><mg><tg xml:lang="myv"><t pos="N">чинь лисема</t><t pos="N">ашолгадома</t></tg></mg></e>
 <e><lg><l pos="N">day</l></lg><mg><tg xml:lang="myv"><t pos="N">чи</t></tg></mg></e>
-<e><lg><l pos="N">deal</l></lg><mg><tg xml:lang="myv"><t pos="N">ве мельс само</t></tg><xg><x>make a deal </x><xt>самс ве мельс</xt></xg></mg></e>
+<e><lg><l pos="N">deal</l></lg><mg><tg xml:lang="myv"><t pos="N">ве мельс само</t></tg><xg><x>make a deal </x><xt xml:lang="myv">самс ве мельс</xt></xg></mg></e>
 <e><lg><l pos="N">dealings</l></lg><mg><tg xml:lang="myv"><t pos="N">вастневема</t></tg></mg></e>
 <e><lg><l pos="N">dean</l></lg><mg><tg xml:lang="myv"><t pos="N">(school) декан</t></tg></mg></e>
 <e><lg><l pos="N">dear</l></lg><mg><tg xml:lang="myv"><t pos="N">вечкевикс</t></tg></mg></e>
@@ -1351,7 +1351,7 @@
 <e><lg><l pos="N">devil</l></lg><mg><tg xml:lang="myv"><t pos="N">идемевсь</t><t pos="N">шайтян</t></tg></mg></e>
 <e><lg><l pos="N">devotion</l></lg><mg><tg xml:lang="myv"><t pos="N">оймень путома</t></tg></mg></e>
 <e><lg><l pos="N">dew</l></lg><mg><tg xml:lang="myv"><t pos="N">роса</t><t pos="N">валскень летьке</t></tg></mg></e>
-<e><lg><l pos="N">diabetes</l></lg><mg><tg xml:lang="myv"><t pos="N">диабет</t></tg><xg><x>have diabetes </x><xt>сэредемс диабетсэ</xt></xg></mg></e>
+<e><lg><l pos="N">diabetes</l></lg><mg><tg xml:lang="myv"><t pos="N">диабет</t></tg><xg><x>have diabetes </x><xt xml:lang="myv">сэредемс диабетсэ</xt></xg></mg></e>
 <e><lg><l pos="N">diagnosis</l></lg><mg><tg xml:lang="myv"><t pos="N">диагноз</t></tg></mg></e>
 <e><lg><l pos="N">diagram</l></lg><mg><tg xml:lang="myv"><t pos="N">диаграмма</t></tg></mg></e>
 <e><lg><l pos="N">dial</l></lg><mg><tg xml:lang="myv"><t pos="N">диск (telephone</t><t pos="N">radio телефононь</t><t pos="N">радионь)</t></tg></mg></e>
@@ -1408,7 +1408,7 @@
 <e><lg><l pos="N">discrimination</l></lg><mg><tg xml:lang="myv"><t pos="N">??лепштямо</t></tg></mg></e>
 <e><lg><l pos="N">discussion</l></lg><mg><tg xml:lang="myv"><t pos="N">кортнема</t></tg></mg></e>
 <e><lg><l pos="N">disease</l></lg><mg><tg xml:lang="myv"><t pos="N">орма</t></tg></mg></e>
-<e><lg><l pos="N">disgrace</l></lg><mg><tg xml:lang="myv"><t pos="N">визьксчама</t></tg><xg><x>bring someone to disgrace </x><xt>киньгак совавтомс визьксчамас</xt></xg></mg></e>
+<e><lg><l pos="N">disgrace</l></lg><mg><tg xml:lang="myv"><t pos="N">визьксчама</t></tg><xg><x>bring someone to disgrace </x><xt xml:lang="myv">киньгак совавтомс визьксчамас</xt></xg></mg></e>
 <e><lg><l pos="N">disgust</l></lg><mg><tg xml:lang="myv"><t pos="N">мельсатуема</t><t pos="N">нулгодема</t></tg></mg></e>
 <e><lg><l pos="N">dish</l></lg><mg><tg xml:lang="myv"><t pos="N">вакан</t><t pos="N">кедьгеть-вакант</t><t pos="N">кедьге</t></tg></mg></e>
 <e><lg><l pos="N">dishwasher</l></lg><mg><tg xml:lang="myv"><t pos="N">посудань шлямо машина</t></tg></mg></e>
@@ -1424,7 +1424,7 @@
 <e><lg><l pos="N">distraction</l></lg><mg><tg xml:lang="myv"><t pos="N">тевстэ явома</t></tg></mg></e>
 <e><lg><l pos="N">distress</l></lg><mg><tg xml:lang="myv"><t pos="N">кажочи</t></tg></mg></e>
 <e><lg><l pos="N">distribution</l></lg><mg><tg xml:lang="myv"><t pos="N">явшема</t></tg></mg></e>
-<e><lg><l pos="N">district</l></lg><mg><tg xml:lang="myv"><t pos="N">буе</t><t pos="N">ёнкс</t></tg><xg><x>administrative district </x><xt>буе</xt><xt>район</xt></xg></mg></e>
+<e><lg><l pos="N">district</l></lg><mg><tg xml:lang="myv"><t pos="N">буе</t><t pos="N">ёнкс</t></tg><xg><x>administrative district </x><xt xml:lang="myv">буе</xt><xt xml:lang="myv">район</xt></xg></mg></e>
 <e><lg><l pos="N">distrust</l></lg><mg><tg xml:lang="myv"><t pos="N">акемема</t></tg></mg></e>
 <e><lg><l pos="N">disturbance</l></lg><mg><tg xml:lang="myv"><t pos="N">лувсто лиснема</t></tg></mg></e>
 <e><lg><l pos="N">ditch</l></lg><mg><tg xml:lang="myv"><t pos="N">(чувозь) канал</t></tg></mg></e>
@@ -1440,7 +1440,7 @@
 <e><lg><l pos="N">dolphin</l></lg><mg><tg xml:lang="myv"><t pos="N">дельфин</t></tg></mg></e>
 <e><lg><l pos="N">donation</l></lg><mg><tg xml:lang="myv"><t pos="N">казне</t></tg></mg></e>
 <e><lg><l pos="N">donkey</l></lg><mg><tg xml:lang="myv"><t pos="N">ишме</t><t pos="N">осёл</t></tg></mg></e>
-<e><lg><l pos="N">door</l></lg><mg><tg xml:lang="myv"><t pos="N">кенкш</t></tg><xg><x>back door </x><xt>удалце кенкш</xt></xg></mg></e>
+<e><lg><l pos="N">door</l></lg><mg><tg xml:lang="myv"><t pos="N">кенкш</t></tg><xg><x>back door </x><xt xml:lang="myv">удалце кенкш</xt></xg></mg></e>
 <e><lg><l pos="N">dormitory</l></lg><mg><tg xml:lang="myv"><t pos="N">вейсэнь эрямо кудо</t><t pos="N">общежитие</t></tg></mg></e>
 <e><lg><l pos="N">dosage</l></lg><mg><tg xml:lang="myv"><t pos="N">доза</t></tg></mg></e>
 <e><lg><l pos="N">double-decker</l></lg><mg><tg xml:lang="myv"><t pos="N">кавто этажосо бус</t></tg></mg></e>
@@ -1456,9 +1456,9 @@
 <e><lg><l pos="N">dragonfly</l></lg><mg><tg xml:lang="myv"><t pos="N">салмукссалы</t></tg></mg></e>
 <e><lg><l pos="N">drain</l></lg><mg><tg xml:lang="myv"><t pos="N">(water) чудевтема</t><t pos="N">(ведень) нолдамо</t></tg></mg></e>
 <e><lg><l pos="N">drama</l></lg><mg><tg xml:lang="myv"><t pos="N">драма</t></tg></mg></e>
-<e><lg><l pos="N">draught</l></lg><mg><tg xml:lang="myv"><t pos="N"></t></tg><xg><x>there is a draught </x><xt>алга уски</xt><xt>пуви</xt></xg></mg></e>
+<e><lg><l pos="N">draught</l></lg><mg><tg xml:lang="myv"><t pos="N"></t></tg><xg><x>there is a draught </x><xt xml:lang="myv">алга уски</xt><xt xml:lang="myv">пуви</xt></xg></mg></e>
 <e><lg><l pos="N">drawing</l></lg><mg><tg xml:lang="myv"><t pos="N">артовкс</t><t pos="N">рисовавкс</t></tg></mg></e>
-<e><lg><l pos="N">dream</l></lg><mg><tg xml:lang="myv"><t pos="N">он</t></tg><xg><x>have a dream </x><xt>неемс он</xt></xg></mg></e>
+<e><lg><l pos="N">dream</l></lg><mg><tg xml:lang="myv"><t pos="N">он</t></tg><xg><x>have a dream </x><xt xml:lang="myv">неемс он</xt></xg></mg></e>
 <e><lg><l pos="N">dress</l></lg><mg><tg xml:lang="myv"><t pos="N">платия</t></tg></mg></e>
 <e><lg><l pos="N">dressing</l></lg><mg><tg xml:lang="myv"><t pos="N">(medical) ранань тапаравкс</t></tg></mg></e>
 <e><lg><l pos="N">drill</l></lg><mg><tg xml:lang="myv"><t pos="N">бурав</t></tg></mg></e>
@@ -1482,8 +1482,8 @@
 <e><lg><l pos="N">durability</l></lg><mg><tg xml:lang="myv"><t pos="N">цидярдома</t></tg></mg></e>
 <e><lg><l pos="N">duration</l></lg><mg><tg xml:lang="myv"><t pos="N">кувалмо</t></tg></mg></e>
 <e><lg><l pos="N">dusk</l></lg><mg><tg xml:lang="myv"><t pos="N">сундерькс</t></tg></mg></e>
-<e><lg><l pos="N">dust</l></lg><mg><tg xml:lang="myv"><t pos="N">пуль</t></tg><xg><x>covered with dust </x><xt>пуль потсо</xt></xg><xg><x>get covered with dust </x><xt>пулиямс</xt></xg></mg></e>
-<e><lg><l pos="N">duty</l></lg><mg><tg xml:lang="myv"><t pos="N">(obligation) тонавтовиця тев</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">(tax) каявкс</t></tg><xg><x>be on duty </x><xt>дежурямс</xt></xg></mg></e>
+<e><lg><l pos="N">dust</l></lg><mg><tg xml:lang="myv"><t pos="N">пуль</t></tg><xg><x>covered with dust </x><xt xml:lang="myv">пуль потсо</xt></xg><xg><x>get covered with dust </x><xt xml:lang="myv">пулиямс</xt></xg></mg></e>
+<e><lg><l pos="N">duty</l></lg><mg><tg xml:lang="myv"><t pos="N">(obligation) тонавтовиця тев</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">(tax) каявкс</t></tg><xg><x>be on duty </x><xt xml:lang="myv">дежурямс</xt></xg></mg></e>
 <e><lg><l pos="N">dye</l></lg><mg><tg xml:lang="myv"><t pos="N">артомапель</t></tg></mg></e>
 <e><lg><l pos="N">dynamo</l></lg><mg><tg xml:lang="myv"><t pos="N">динамо</t></tg></mg></e>
 <e><lg><l pos="N">eagle</l></lg><mg><tg xml:lang="myv"><t pos="N">куцькан</t><t pos="N">тумоатякш</t></tg></mg></e>
@@ -1534,9 +1534,9 @@
 <e><lg><l pos="N">enclosure</l></lg><mg><tg xml:lang="myv"><t pos="N">(land) пирявкс</t></tg></mg></e>
 <e><lg><l pos="N">encounter</l></lg><mg><tg xml:lang="myv"><t pos="N">ванстома</t></tg></mg></e>
 <e><lg><l pos="N">encouragement</l></lg><mg><tg xml:lang="myv"><t pos="N">(теемеде) мерема</t></tg></mg></e>
-<e><lg><l pos="N">end</l></lg><mg><tg xml:lang="myv"><t pos="N">пе</t><t pos="N">маштома</t></tg><xg><x>put an end to something </x><xt>мезненьгак путомс пе</xt></xg></mg></e>
+<e><lg><l pos="N">end</l></lg><mg><tg xml:lang="myv"><t pos="N">пе</t><t pos="N">маштома</t></tg><xg><x>put an end to something </x><xt xml:lang="myv">мезненьгак путомс пе</xt></xg></mg></e>
 <e><lg><l pos="N">endeavour</l></lg><mg><tg xml:lang="myv"><t pos="N">бажамо</t><t pos="N">снартнема</t></tg></mg></e>
-<e><lg><l pos="V">endorse</l></lg><mg><xg><x>endorse a check</x><xt>путомс кедь чекс</xt></xg></mg></e>
+<e><lg><l pos="V">endorse</l></lg><mg><xg><x>endorse a check</x><xt xml:lang="myv">путомс кедь чекс</xt></xg></mg></e>
 <e><lg><l pos="N">endorsement</l></lg><mg><tg xml:lang="myv"><t pos="N">(approval) (мезень) кисэ пшкадема</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">(check) (чекс) кедень путома</t></tg></mg></e>
 <e><lg><l pos="N">endurance</l></lg><mg><tg xml:lang="myv"><t pos="N">кирдема</t><t pos="N">цидярдома</t></tg></mg></e>
 <e><lg><l pos="N">enemy</l></lg><mg><tg xml:lang="myv"><t pos="N">ят</t><t pos="N">душман</t></tg></mg></e>
@@ -1553,7 +1553,7 @@
 <e><lg><l pos="N">entry</l></lg><mg><tg xml:lang="myv"><t pos="N">совамо</t></tg></mg></e>
 <e><lg><l pos="N">envelope</l></lg><mg><tg xml:lang="myv"><t pos="N">сёрмалангакс</t><t pos="N">конверт</t></tg></mg></e>
 <e><lg><l pos="N">environment</l></lg><mg><tg xml:lang="myv"><t pos="N">пертьпелькс</t></tg></mg></e>
-<e><lg><l pos="N">envy</l></lg><mg><tg xml:lang="myv"><t pos="N">сельмень сиядома</t><t pos="N">сельмень сявадома.― v.</t></tg><xg><x>I envy him </x><xt>сельмем сияды лангозонзо ванозь</xt></xg></mg></e>
+<e><lg><l pos="N">envy</l></lg><mg><tg xml:lang="myv"><t pos="N">сельмень сиядома</t><t pos="N">сельмень сявадома.― v.</t></tg><xg><x>I envy him </x><xt xml:lang="myv">сельмем сияды лангозонзо ванозь</xt></xg></mg></e>
 <e><lg><l pos="N">epidemic</l></lg><mg><tg xml:lang="myv"><t pos="N">кезов</t></tg></mg></e>
 <e><lg><l pos="N">equality</l></lg><mg><tg xml:lang="myv"><t pos="N">вейкетьксчи</t></tg></mg></e>
 <e><lg><l pos="N">equator</l></lg><mg><tg xml:lang="myv"><t pos="N">экватор</t></tg></mg></e>
@@ -1578,7 +1578,7 @@
 <e><lg><l pos="N">evolution</l></lg><mg><tg xml:lang="myv"><t pos="N">эволюция</t></tg></mg></e>
 <e><lg><l pos="N">exaggeration</l></lg><mg><tg xml:lang="myv"><t pos="N">покшолгавтома</t></tg></mg></e>
 <e><lg><l pos="N">examination</l></lg><mg><tg xml:lang="myv"><t pos="N">экзам</t></tg></mg></e>
-<e><lg><l pos="N">example</l></lg><mg><tg xml:lang="myv"><t pos="N">невтевкс</t><t pos="N">пример</t></tg><xg><x>for example </x><xt>саемга</xt><xt>невтемань кисэ</xt></xg></mg></e>
+<e><lg><l pos="N">example</l></lg><mg><tg xml:lang="myv"><t pos="N">невтевкс</t><t pos="N">пример</t></tg><xg><x>for example </x><xt xml:lang="myv">саемга</xt><xt xml:lang="myv">невтемань кисэ</xt></xg></mg></e>
 <e><lg><l pos="N">excavation</l></lg><mg><tg xml:lang="myv"><t pos="N">таргамо</t><t pos="N">чувнома-витнема</t></tg></mg></e>
 <e><lg><l pos="N">excellence</l></lg><mg><tg xml:lang="myv"><t pos="N">эйпарочи</t></tg></mg></e>
 <e><lg><l pos="N">exception</l></lg><mg><tg xml:lang="myv"><t pos="N">башка ёнкс</t></tg></mg></e>
@@ -1702,7 +1702,7 @@
 <e><lg><l pos="N">fiddler</l></lg><mg><tg xml:lang="myv"><t pos="N">гарзисэ седи</t></tg></mg></e>
 <e><lg><l pos="N">fidelity</l></lg><mg><tg xml:lang="myv"><t pos="N">(полань туртов) кемевикс</t></tg></mg></e>
 <e><lg><l pos="N">field</l></lg><mg><tg xml:lang="myv"><t pos="N">пакся</t></tg></mg></e>
-<e><lg><l pos="N">field trip</l></lg><mg><tg xml:lang="myv"><t pos="N"></t></tg><xg><x>go on a field trip somewhere with the class </x><xt>якамс ковгак класс марто</xt></xg></mg></e>
+<e><lg><l pos="N">field trip</l></lg><mg><tg xml:lang="myv"><t pos="N"></t></tg><xg><x>go on a field trip somewhere with the class </x><xt xml:lang="myv">якамс ковгак класс марто</xt></xg></mg></e>
 <e><lg><l pos="N">fig</l></lg><mg><tg xml:lang="myv"><t pos="N">инжир</t></tg></mg></e>
 <e><lg><l pos="N">fight</l></lg><mg><tg xml:lang="myv"><t pos="N">тюрема</t></tg></mg></e>
 <e><lg><l pos="N">fighter</l></lg><mg><tg xml:lang="myv"><t pos="N">тюриця</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">(aircraft) истребитель</t></tg></mg></e>
@@ -1727,7 +1727,7 @@
 <e><lg><l pos="N">fireworks</l></lg><mg><tg xml:lang="myv"><t pos="N">феерверк</t></tg></mg></e>
 <e><lg><l pos="N">fish</l></lg><mg><tg xml:lang="myv"><t pos="N">кал</t></tg></mg></e>
 <e><lg><l pos="N">fisherman</l></lg><mg><tg xml:lang="myv"><t pos="N">калонь кундыця</t></tg></mg></e>
-<e><lg><l pos="N">fishing</l></lg><mg><tg xml:lang="myv"><t pos="N">калонь кундамо</t></tg><xg><x>go fishing </x><xt>молемс калс</xt><xt>молемс калонь кундамо</xt></xg></mg></e>
+<e><lg><l pos="N">fishing</l></lg><mg><tg xml:lang="myv"><t pos="N">калонь кундамо</t></tg><xg><x>go fishing </x><xt xml:lang="myv">молемс калс</xt><xt xml:lang="myv">молемс калонь кундамо</xt></xg></mg></e>
 <e><lg><l pos="N">fishing boat</l></lg><mg><tg xml:lang="myv"><t pos="N">калонь кундамо венч</t></tg></mg></e>
 <e><lg><l pos="N">fishing line</l></lg><mg><tg xml:lang="myv"><t pos="N">леска</t></tg></mg></e>
 <e><lg><l pos="N">fishing pole</l></lg><mg><tg xml:lang="myv"><t pos="N">ульма</t></tg></mg></e>
@@ -1772,7 +1772,7 @@
 <e><lg><l pos="N">fool</l></lg><mg><tg xml:lang="myv"><t pos="N">превтеме</t><t pos="N">чавола</t></tg></mg></e>
 <e><lg><l pos="N">foot</l></lg><mg><tg xml:lang="myv"><t pos="N">пильге (лапа)</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">пильге пе (of the bed удома таркань)</t></tg></mg></e>
 <e><lg><l pos="N">footprint</l></lg><mg><tg xml:lang="myv"><t pos="N">пильге ки</t></tg></mg></e>
-<e><lg><l pos="N">force</l></lg><mg><tg xml:lang="myv"><t pos="N">вий</t></tg><xg><x>by force </x><xt>вийсэ</xt></xg></mg></e>
+<e><lg><l pos="N">force</l></lg><mg><tg xml:lang="myv"><t pos="N">вий</t></tg><xg><x>by force </x><xt xml:lang="myv">вийсэ</xt></xg></mg></e>
 <e><lg><l pos="N">forearm</l></lg><mg><tg xml:lang="myv"><t pos="N">кедьсеерькс</t><t pos="N">кедерькс</t></tg></mg></e>
 <e><lg><l pos="N">forecast</l></lg><mg><tg xml:lang="myv"><t pos="N">икелев ёвтамо</t></tg></mg></e>
 <e><lg><l pos="N">forehead</l></lg><mg><tg xml:lang="myv"><t pos="N">коня</t></tg></mg></e>
@@ -1814,7 +1814,7 @@
 <e><lg><l pos="N">frequency</l></lg><mg><tg xml:lang="myv"><t pos="N">сеедьстэксчи</t><t pos="N">сеедельма??</t></tg></mg></e>
 <e><lg><l pos="N">friction</l></lg><mg><tg xml:lang="myv"><t pos="N">ёзамо</t><t pos="N">фрикция</t></tg></mg></e>
 <e><lg><l pos="N">Friday</l></lg><mg><tg xml:lang="myv"><t pos="N">пеця</t></tg></mg></e>
-<e><lg><l pos="N">friend</l></lg><mg><tg xml:lang="myv"><t pos="N">ялга</t><t pos="N">оя</t></tg><xg><x>find a friend </x><xt>муемс ялга</xt></xg><xg><x>make friends </x><xt>теевемс содавиксэкс (with марто)</xt></xg></mg></e>
+<e><lg><l pos="N">friend</l></lg><mg><tg xml:lang="myv"><t pos="N">ялга</t><t pos="N">оя</t></tg><xg><x>find a friend </x><xt xml:lang="myv">муемс ялга</xt></xg><xg><x>make friends </x><xt xml:lang="myv">теевемс содавиксэкс (with марто)</xt></xg></mg></e>
 <e><lg><l pos="N">friendship</l></lg><mg><tg xml:lang="myv"><t pos="N">ялгаксчи</t><t pos="N">ояксчи</t></tg></mg></e>
 <e><lg><l pos="N">frigate</l></lg><mg><tg xml:lang="myv"><t pos="N">фрегат</t></tg></mg></e>
 <e><lg><l pos="N">fright</l></lg><mg><tg xml:lang="myv"><t pos="N">тандадома</t></tg></mg></e>
@@ -1971,7 +1971,7 @@
 <e><lg><l pos="N">ground</l></lg><mg><tg xml:lang="myv"><t pos="N">мода</t></tg></mg></e>
 <e><lg><l pos="N">groundwork</l></lg><mg><tg xml:lang="myv"><t pos="N">юртонь путома</t></tg></mg></e>
 <e><lg><l pos="N">group</l></lg><mg><tg xml:lang="myv"><t pos="N">группа</t><t pos="N">пусмо</t></tg></mg></e>
-<e><lg><l pos="N">grove</l></lg><mg><tg xml:lang="myv"><t pos="N">куро</t><t pos="N">-пуло</t></tg><xg><x>alder grove </x><xt>лепепуло</xt></xg></mg></e>
+<e><lg><l pos="N">grove</l></lg><mg><tg xml:lang="myv"><t pos="N">куро</t><t pos="N">-пуло</t></tg><xg><x>alder grove </x><xt xml:lang="myv">лепепуло</xt></xg></mg></e>
 <e><lg><l pos="N">growth</l></lg><mg><tg xml:lang="myv"><t pos="N">(development) касома-кепедема</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">(physical) касома (рунгс-сэрьс)</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">(tumor) касовкс</t></tg></mg></e>
 <e><lg><l hid="Hom1" pos="N">grub</l></lg><mg><tg xml:lang="myv"><t pos="N">ярсамопель</t><t pos="N">ярсамкст</t></tg></mg></e>
 <e><lg><l hid="Hom2" pos="N">grub</l></lg><mg><tg xml:lang="myv"><t pos="N">керисукс</t><t pos="N">чувтосо сукс</t></tg></mg></e>
@@ -2012,7 +2012,7 @@
 <e><lg><l pos="N">ham</l></lg><mg><tg xml:lang="myv"><t pos="N">качакавтозь тувонь сывель</t></tg></mg></e>
 <e><lg><l pos="N">hammer</l></lg><mg><tg xml:lang="myv"><t pos="N">молотка</t></tg></mg></e>
 <e><lg><l pos="N">hammock</l></lg><mg><tg xml:lang="myv"><t pos="N">гамок</t></tg></mg></e>
-<e><lg><l pos="N">hand</l></lg><mg><tg xml:lang="myv"><t pos="N">кедьпе</t><t pos="N">кедьлапа</t><t pos="N">кедь</t></tg><xg><x>get out of hand </x><xt>ланга туемс</xt><xt>кедьстэ лисемс</xt></xg></mg></e>
+<e><lg><l pos="N">hand</l></lg><mg><tg xml:lang="myv"><t pos="N">кедьпе</t><t pos="N">кедьлапа</t><t pos="N">кедь</t></tg><xg><x>get out of hand </x><xt xml:lang="myv">ланга туемс</xt><xt xml:lang="myv">кедьстэ лисемс</xt></xg></mg></e>
 <e><lg><l pos="N">handbook</l></lg><mg><tg xml:lang="myv"><t pos="N">справочник</t></tg></mg></e>
 <e><lg><l pos="N">handbrake</l></lg><mg><tg xml:lang="myv"><t pos="N">кедень тормоз</t></tg></mg></e>
 <e><lg><l pos="N">handcuffs</l></lg><mg><tg xml:lang="myv"><t pos="N">наручникть</t></tg></mg></e>
@@ -2034,7 +2034,7 @@
 <e><lg><l pos="N">harpoon</l></lg><mg><tg xml:lang="myv"><t pos="N">гарпун</t></tg></mg></e>
 <e><lg><l pos="N">harvest</l></lg><mg><tg xml:lang="myv"><t pos="N">нуемаланго</t></tg></mg></e>
 <e><lg><l pos="N">harvest time</l></lg><mg><tg xml:lang="myv"><t pos="N">нуемаланго</t></tg></mg></e>
-<e><lg><l pos="N">haste</l></lg><mg><tg xml:lang="myv"><t pos="N">капшамо</t></tg><xg><x>in their haste they...  </x><xt>капшамонь пачк сынь...</xt></xg></mg></e>
+<e><lg><l pos="N">haste</l></lg><mg><tg xml:lang="myv"><t pos="N">капшамо</t></tg><xg><x>in their haste they...  </x><xt xml:lang="myv">капшамонь пачк сынь...</xt></xg></mg></e>
 <e><lg><l pos="N">hat</l></lg><mg><tg xml:lang="myv"><t pos="N">пряспутомка</t><t pos="N">шляпа</t></tg></mg></e>
 <e><lg><l pos="N">hatch</l></lg><mg><tg xml:lang="myv"><t pos="N">нарвавкс</t></tg></mg></e>
 <e><lg><l pos="N">hatchet</l></lg><mg><tg xml:lang="myv"><t pos="N">вишка узере</t></tg></mg></e>
@@ -2081,7 +2081,7 @@
 <e><lg><l pos="N">hemisphere</l></lg><mg><tg xml:lang="myv"><t pos="N">полюс</t></tg></mg></e>
 <e><lg><l pos="N">hen</l></lg><mg><tg xml:lang="myv"><t pos="N">нарвицька</t></tg></mg></e>
 <e><lg><l pos="N">herb</l></lg><mg><tg xml:lang="myv"><t pos="N">тикшеть-люкшат</t><t pos="N">тикше</t></tg></mg></e>
-<e><lg><l pos="N">herd</l></lg><mg><tg xml:lang="myv"><t pos="N">стада</t></tg><xg><x>herd of sheep </x><xt>реве стада</xt></xg><xg><x>sheep herd </x><xt>ревень стада</xt></xg></mg></e>
+<e><lg><l pos="N">herd</l></lg><mg><tg xml:lang="myv"><t pos="N">стада</t></tg><xg><x>herd of sheep </x><xt xml:lang="myv">реве стада</xt></xg><xg><x>sheep herd </x><xt xml:lang="myv">ревень стада</xt></xg></mg></e>
 <e><lg><l pos="N">heredity</l></lg><mg><tg xml:lang="myv"><t pos="N">наследственность</t><t pos="N">сымеполадксчи</t></tg></mg></e>
 <e><lg><l pos="N">hermit</l></lg><mg><tg xml:lang="myv"><t pos="N">башка эриця</t><t pos="N">ськамонзо эриця</t></tg></mg></e>
 <e><lg><l pos="N">hernia</l></lg><mg><tg xml:lang="myv"><t pos="N">мушказ</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">(in the groin) килат</t></tg></mg></e>
@@ -2089,8 +2089,8 @@
 <e><lg><l pos="N">heroin</l></lg><mg><tg xml:lang="myv"><t pos="N">ава герой</t></tg></mg></e>
 <e><lg><l pos="N">hesitation</l></lg><mg><tg xml:lang="myv"><t pos="N">кавтолдома</t></tg></mg></e>
 <e><lg><l pos="N">hexagon</l></lg><mg><tg xml:lang="myv"><t pos="N">кото ужосо</t></tg></mg></e>
-<e><lg><l pos="N">hibernation</l></lg><mg><tg xml:lang="myv"><t pos="N">сунжамо</t></tg><xg><x>go into hibernation </x><xt>сунжамс.</xt></xg></mg></e>
-<e><lg><l pos="N">hiccup</l></lg><mg><tg xml:lang="myv"><t pos="N">икнема</t></tg><xg><x>have the hiccups </x><xt>икнемс</xt></xg></mg></e>
+<e><lg><l pos="N">hibernation</l></lg><mg><tg xml:lang="myv"><t pos="N">сунжамо</t></tg><xg><x>go into hibernation </x><xt xml:lang="myv">сунжамс.</xt></xg></mg></e>
+<e><lg><l pos="N">hiccup</l></lg><mg><tg xml:lang="myv"><t pos="N">икнема</t></tg><xg><x>have the hiccups </x><xt xml:lang="myv">икнемс</xt></xg></mg></e>
 <e><lg><l pos="N">hide</l></lg><mg><tg xml:lang="myv"><t pos="N">кедь</t><t pos="N">киське</t></tg></mg></e>
 <e><lg><l pos="N">high school</l></lg><mg><tg xml:lang="myv"><t pos="N">средней школа</t></tg></mg></e>
 <e><lg><l pos="N">highway</l></lg><mg><tg xml:lang="myv"><t pos="N">покш ки</t><t pos="N">шоссей</t></tg></mg></e>
@@ -2147,13 +2147,13 @@
 <e><lg><l pos="N">hour</l></lg><mg><tg xml:lang="myv"><t pos="N">час</t><t pos="N">цяс</t></tg></mg></e>
 <e><lg><l pos="N">house</l></lg><mg><tg xml:lang="myv"><t pos="N">кудо</t></tg></mg></e>
 <e><lg><l pos="N">household</l></lg><mg><tg xml:lang="myv"><t pos="N">пизэть-акшт</t><t pos="N">кудот-чить</t></tg></mg></e>
-<e><lg><l pos="N">hug</l></lg><mg><tg xml:lang="myv"><t pos="N">кутмордамо</t></tg><xg><x>give a hug </x><xt>кутмордамс</xt></xg></mg></e>
+<e><lg><l pos="N">hug</l></lg><mg><tg xml:lang="myv"><t pos="N">кутмордамо</t></tg><xg><x>give a hug </x><xt xml:lang="myv">кутмордамс</xt></xg></mg></e>
 <e><lg><l pos="N">hull</l></lg><mg><tg xml:lang="myv"><t pos="N">венчалкс</t></tg></mg></e>
 <e><lg><l pos="N">human</l></lg><mg><tg xml:lang="myv"><t pos="N">ломань</t></tg></mg></e>
 <e><lg><l pos="N">humanity</l></lg><mg><tg xml:lang="myv"><t pos="N">ломаньлув</t></tg></mg></e>
 <e><lg><l pos="N">humidity</l></lg><mg><tg xml:lang="myv"><t pos="N">летькечи</t></tg></mg></e>
 <e><lg><l pos="N">humor</l></lg><mg><tg xml:lang="myv"><t pos="N">юмор</t></tg></mg></e>
-<e><lg><l pos="N">hunger</l></lg><mg><tg xml:lang="myv"><t pos="N">вачочи</t></tg><xg><x>die of hunger </x><xt>куломс вачодо</xt></xg></mg></e>
+<e><lg><l pos="N">hunger</l></lg><mg><tg xml:lang="myv"><t pos="N">вачочи</t></tg><xg><x>die of hunger </x><xt xml:lang="myv">куломс вачодо</xt></xg></mg></e>
 <e><lg><l pos="N">hunt</l></lg><mg><tg xml:lang="myv"><t pos="N">идем ракшань кундамо</t><t pos="N">охота</t></tg></mg></e>
 <e><lg><l pos="N">hunter</l></lg><mg><tg xml:lang="myv"><t pos="N">идем ракша кунды</t><t pos="N">охотник</t></tg></mg></e>
 <e><lg><l pos="N">hurricane</l></lg><mg><tg xml:lang="myv"><t pos="N">ураган</t></tg></mg></e>
@@ -2186,7 +2186,7 @@
 <e><lg><l pos="N">imagination</l></lg><mg><tg xml:lang="myv"><t pos="N">мельсэ-превсэ неема</t><t pos="N">чотнамо</t></tg></mg></e>
 <e><lg><l pos="N">imbalance</l></lg><mg><tg xml:lang="myv"><t pos="N">баланстомочи</t></tg></mg></e>
 <e><lg><l pos="N">imitation</l></lg><mg><tg xml:lang="myv"><t pos="N">(лиянь) коряс тейнема</t></tg></mg></e>
-<e><lg><l pos="N">immaturity</l></lg><mg><tg xml:lang="myv"><t pos="N">одксчи</t></tg><xg><x>due to his immaturity </x><xt>пиже прясонзо</xt></xg></mg></e>
+<e><lg><l pos="N">immaturity</l></lg><mg><tg xml:lang="myv"><t pos="N">одксчи</t></tg><xg><x>due to his immaturity </x><xt xml:lang="myv">пиже прясонзо</xt></xg></mg></e>
 <e><lg><l pos="N">immersion</l></lg><mg><tg xml:lang="myv"><t pos="N">навтома</t><t pos="N">ваявтома</t></tg></mg></e>
 <e><lg><l pos="N">immigrant</l></lg><mg><tg xml:lang="myv"><t pos="N">иммигрант</t><t pos="N">масторс савкс</t></tg></mg></e>
 <e><lg><l pos="N">immigration</l></lg><mg><tg xml:lang="myv"><t pos="N">иммиграция</t></tg></mg></e>
@@ -2379,7 +2379,7 @@
 <e><lg><l pos="N">junction</l></lg><mg><tg xml:lang="myv"><t pos="N">киуло</t></tg></mg></e>
 <e><lg><l pos="N">June</l></lg><mg><tg xml:lang="myv"><t pos="N">аштемаков</t></tg></mg></e>
 <e><lg><l pos="N">jungle</l></lg><mg><tg xml:lang="myv"><t pos="N">жунгель</t></tg></mg></e>
-<e><lg><l pos="N">jurisdiction</l></lg><mg><tg xml:lang="myv"><t pos="N">??кедьалочи</t></tg><xg><x>be under someone’s jurisdiction </x><xt>аштемс киньгак кедьало</xt></xg></mg></e>
+<e><lg><l pos="N">jurisdiction</l></lg><mg><tg xml:lang="myv"><t pos="N">??кедьалочи</t></tg><xg><x>be under someone’s jurisdiction </x><xt xml:lang="myv">аштемс киньгак кедьало</xt></xg></mg></e>
 <e><lg><l pos="N">juror</l></lg><mg><tg xml:lang="myv"><t pos="N">журинь ломань</t></tg></mg></e>
 <e><lg><l pos="N">jury</l></lg><mg><tg xml:lang="myv"><t pos="N">жури</t></tg></mg></e>
 <e><lg><l pos="N">justice</l></lg><mg><tg xml:lang="myv"><t pos="N">видечи</t></tg></mg></e>
@@ -2495,7 +2495,7 @@
 <e><lg><l pos="N">lid</l></lg><mg><tg xml:lang="myv"><t pos="N">велькс</t><t pos="N">вельтявкс</t></tg></mg></e>
 <e><lg><l pos="N">lie</l></lg><mg><tg xml:lang="myv"><t pos="N">кенгелема</t></tg></mg></e>
 <e><lg><l pos="N">lieutenant</l></lg><mg><tg xml:lang="myv"><t pos="N">лейтенант</t></tg></mg></e>
-<e><lg><l pos="N">life</l></lg><mg><tg xml:lang="myv"><t pos="N">эрямо</t></tg><xg><x>lose one's life </x><xt>путомс пря</xt></xg></mg></e>
+<e><lg><l pos="N">life</l></lg><mg><tg xml:lang="myv"><t pos="N">эрямо</t></tg><xg><x>lose one's life </x><xt xml:lang="myv">путомс пря</xt></xg></mg></e>
 <e><lg><l pos="N">life jacket </l></lg><mg><tg xml:lang="myv"><t pos="N">идема жилетка / ваямодо жилетка</t></tg></mg></e>
 <e><lg><l pos="N">lifeboat</l></lg><mg><tg xml:lang="myv"><t pos="N">идемавенч</t></tg></mg></e>
 <e><lg><l pos="N">lifeguard</l></lg><mg><tg xml:lang="myv"><t pos="N">(басейнасо) ванстыця</t></tg></mg></e>
@@ -2522,13 +2522,13 @@
 <e><lg><l pos="N">lip</l></lg><mg><tg xml:lang="myv"><t pos="N">турва</t></tg></mg></e>
 <e><lg><l pos="N">liquid</l></lg><mg><tg xml:lang="myv"><t pos="N">летьке</t></tg></mg></e>
 <e><lg><l pos="N">liquor</l></lg><mg><tg xml:lang="myv"><t pos="N">ченькс</t></tg></mg></e>
-<e><lg><l pos="N">lisp</l></lg><mg><tg xml:lang="myv"><t pos="N">понгозь кельсэ кортамо</t><t pos="N">пелькельсэ кортамо</t></tg><xg><x>have a lisp </x><xt>кортамс понгозь кельсэ</xt></xg></mg></e>
+<e><lg><l pos="N">lisp</l></lg><mg><tg xml:lang="myv"><t pos="N">понгозь кельсэ кортамо</t><t pos="N">пелькельсэ кортамо</t></tg><xg><x>have a lisp </x><xt xml:lang="myv">кортамс понгозь кельсэ</xt></xg></mg></e>
 <e><lg><l pos="N">list</l></lg><mg><tg xml:lang="myv"><t pos="N">списка</t></tg></mg></e>
 <e><lg><l pos="N">listener</l></lg><mg><tg xml:lang="myv"><t pos="N">кунсолыця</t></tg></mg></e>
 <e><lg><l pos="N">literacy</l></lg><mg><tg xml:lang="myv"><t pos="N">сёрмас содамо</t></tg></mg></e>
 <e><lg><l pos="N">literature</l></lg><mg><tg xml:lang="myv"><t pos="N">литература</t></tg></mg></e>
 <e><lg><l pos="N">litigation</l></lg><mg><tg xml:lang="myv"><t pos="N">кучолкскудо</t></tg></mg></e>
-<e><lg><l pos="N">livelihood</l></lg><mg><tg xml:lang="myv"><t pos="N">прянь трямо</t></tg><xg><x>make a livelihood </x><xt>пря трямс</xt></xg></mg></e>
+<e><lg><l pos="N">livelihood</l></lg><mg><tg xml:lang="myv"><t pos="N">прянь трямо</t></tg><xg><x>make a livelihood </x><xt xml:lang="myv">пря трямс</xt></xg></mg></e>
 <e><lg><l pos="N">liver</l></lg><mg><tg xml:lang="myv"><t pos="N">максо</t></tg></mg></e>
 <e><lg><l pos="N">lizard</l></lg><mg><tg xml:lang="myv"><t pos="N">метьказ</t></tg></mg></e>
 <e><lg><l pos="N">load</l></lg><mg><tg xml:lang="myv"><t pos="N">улав</t><t pos="N">груз</t></tg></mg></e>
@@ -2550,11 +2550,11 @@
 <e><lg><l pos="N">lorry</l></lg><mg><tg xml:lang="myv"><t pos="N">грузовик</t></tg></mg></e>
 <e><lg><l pos="N">loser</l></lg><mg><tg xml:lang="myv"><t pos="N">изнявиця</t></tg></mg></e>
 <e><lg><l pos="N">loss</l></lg><mg><tg xml:lang="myv"><t pos="N">ёмавкс</t></tg></mg></e>
-<e><lg><l pos="N">lot</l></lg><mg><tg xml:lang="myv"><t pos="N">(much) ламо</t></tg><xg><x>a lot </x><xt>ламо; сеедьстэ</xt></xg></mg></e>
+<e><lg><l pos="N">lot</l></lg><mg><tg xml:lang="myv"><t pos="N">(much) ламо</t></tg><xg><x>a lot </x><xt xml:lang="myv">ламо; сеедьстэ</xt></xg></mg></e>
 <e><lg><l pos="N">lotion</l></lg><mg><tg xml:lang="myv"><t pos="N">лосьон</t></tg></mg></e>
 <e><lg><l pos="N">lottery</l></lg><mg><tg xml:lang="myv"><t pos="N">лоторея</t></tg></mg></e>
 <e><lg><l pos="N">louse</l></lg><mg><tg xml:lang="myv"><t pos="N">сий</t></tg></mg></e>
-<e><lg><l pos="N">love</l></lg><mg><tg xml:lang="myv"><t pos="N">вечкема</t></tg><xg><x>fall in love: the boy fell in love </x><xt>цёранть саизе вечкема орма</xt></xg></mg></e>
+<e><lg><l pos="N">love</l></lg><mg><tg xml:lang="myv"><t pos="N">вечкема</t></tg><xg><x>fall in love: the boy fell in love </x><xt xml:lang="myv">цёранть саизе вечкема орма</xt></xg></mg></e>
 <e><lg><l pos="N">loyalty</l></lg><mg><tg xml:lang="myv"><t pos="N">верность</t></tg></mg></e>
 <e><lg><l pos="N">lubricant</l></lg><mg><tg xml:lang="myv"><t pos="N">ваднемка</t></tg></mg></e>
 <e><lg><l pos="N">luck</l></lg><mg><tg xml:lang="myv"><t pos="N">уцяска</t></tg></mg></e>
@@ -2659,7 +2659,7 @@
 <e><lg><l pos="N">merger</l></lg><mg><tg xml:lang="myv"><t pos="N">вейсэньдявома</t></tg></mg></e>
 <e><lg><l pos="N">merit</l></lg><mg><tg xml:lang="myv"><t pos="N">заслуга</t></tg></mg></e>
 <e><lg><l pos="N">mermaid</l></lg><mg><tg xml:lang="myv"><t pos="N">ведьава</t></tg></mg></e>
-<e><lg><l pos="N">message</l></lg><mg><tg xml:lang="myv"><t pos="N">куля</t><t pos="N">сёрмине</t></tg><xg><x>send a message </x><xt>кучомс куля</xt><xt>кучомс сёрмине</xt></xg></mg></e>
+<e><lg><l pos="N">message</l></lg><mg><tg xml:lang="myv"><t pos="N">куля</t><t pos="N">сёрмине</t></tg><xg><x>send a message </x><xt xml:lang="myv">кучомс куля</xt><xt xml:lang="myv">кучомс сёрмине</xt></xg></mg></e>
 <e><lg><l pos="N">messenger</l></lg><mg><tg xml:lang="myv"><t pos="N">посыльной</t><t pos="N">кулянь кандый</t></tg></mg></e>
 <e><lg><l pos="N">metal</l></lg><mg><tg xml:lang="myv"><t pos="N">кшни</t></tg></mg></e>
 <e><lg><l pos="N">meter</l></lg><mg><tg xml:lang="myv"><t pos="N">метра</t></tg></mg></e>
@@ -2773,7 +2773,7 @@
 <e><lg><l pos="N">myth</l></lg><mg><tg xml:lang="myv"><t pos="N">миф</t><t pos="N">пингеёвкс</t></tg></mg></e>
 <e><lg><l pos="N">nail</l></lg><mg><tg xml:lang="myv"><t pos="N">(metal) эске</t></tg></mg></e>
 <e><lg><l pos="N">name</l></lg><mg><tg xml:lang="myv"><t pos="N">лем</t></tg></mg></e>
-<e><lg><l pos="N">nap</l></lg><mg><tg xml:lang="myv"><t pos="N">(sleep) нувсема</t></tg><xg><x>take a nap </x><xt>мадемс аламо шкас</xt></xg></mg></e>
+<e><lg><l pos="N">nap</l></lg><mg><tg xml:lang="myv"><t pos="N">(sleep) нувсема</t></tg><xg><x>take a nap </x><xt xml:lang="myv">мадемс аламо шкас</xt></xg></mg></e>
 <e><lg><l pos="N">napkin</l></lg><mg><tg xml:lang="myv"><t pos="N">(table) салфетка</t></tg></mg></e>
 <e><lg><l pos="N">narration</l></lg><mg><tg xml:lang="myv"><t pos="N">ёвтнема</t></tg></mg></e>
 <e><lg><l pos="N">nation</l></lg><mg><tg xml:lang="myv"><t pos="N">раське</t><t pos="N">нация</t></tg></mg></e>
@@ -2840,7 +2840,7 @@
 <e><lg><l pos="N">nutrition</l></lg><mg><tg xml:lang="myv"><t pos="N">андома</t></tg></mg></e>
 <e><lg><l pos="N">oak</l></lg><mg><tg xml:lang="myv"><t pos="N">тумо</t></tg></mg></e>
 <e><lg><l pos="N">oar</l></lg><mg><tg xml:lang="myv"><t pos="N">имле</t></tg></mg></e>
-<e><lg><l pos="N">oath</l></lg><mg><tg xml:lang="myv"><t pos="N">пежеть</t></tg><xg><x>take an oath </x><xt>пежедькстамс</xt></xg></mg></e>
+<e><lg><l pos="N">oath</l></lg><mg><tg xml:lang="myv"><t pos="N">пежеть</t></tg><xg><x>take an oath </x><xt xml:lang="myv">пежедькстамс</xt></xg></mg></e>
 <e><lg><l pos="N">oats</l></lg><mg><tg xml:lang="myv"><t pos="N">пинеме</t></tg></mg></e>
 <e><lg><l pos="N">obedience</l></lg><mg><tg xml:lang="myv"><t pos="N">кунсолома</t></tg></mg></e>
 <e><lg><l pos="N">obituary</l></lg><mg><tg xml:lang="myv"><t pos="N">кулыцядо сёрмадовкс</t><t pos="N">некролог</t></tg></mg></e>
@@ -2923,7 +2923,7 @@
 <e><lg><l pos="N">painter</l></lg><mg><tg xml:lang="myv"><t pos="N">артыця</t></tg></mg></e>
 <e><lg><l pos="N">painting</l></lg><mg><tg xml:lang="myv"><t pos="N">артома</t></tg></mg></e>
 <e><lg><l pos="N">pair</l></lg><mg><tg xml:lang="myv"><t pos="N">(people) мирдть-нить</t></tg></mg></e>
-<e><lg><l pos="N">pair</l></lg><mg><tg xml:lang="myv"><t pos="N">(two) -нст</t></tg><xg><x>two pair </x><xt>кавонст</xt></xg></mg></e>
+<e><lg><l pos="N">pair</l></lg><mg><tg xml:lang="myv"><t pos="N">(two) -нст</t></tg><xg><x>two pair </x><xt xml:lang="myv">кавонст</xt></xg></mg></e>
 <e><lg><l pos="N">palace</l></lg><mg><tg xml:lang="myv"><t pos="N">дворец</t><t pos="N">азоркудо</t></tg></mg></e>
 <e><lg><l pos="N">palm</l></lg><mg><tg xml:lang="myv"><t pos="N">кедь куншка</t></tg></mg></e>
 <e><lg><l pos="N">palm tree</l></lg><mg><tg xml:lang="myv"><t pos="N">пальма чувто</t></tg></mg></e>
@@ -2966,7 +2966,7 @@
 <e><lg><l pos="N">passion</l></lg><mg><tg xml:lang="myv"><t pos="N">акирдевиця вечкема</t></tg></mg></e>
 <e><lg><l pos="N">passport</l></lg><mg><tg xml:lang="myv"><t pos="N">(омбо масторов) пашпорт</t><t pos="N">паспорт</t></tg></mg></e>
 <e><lg><l pos="N">password</l></lg><mg><tg xml:lang="myv"><t pos="N">пароль</t></tg></mg></e>
-<e><lg><l pos="N">past</l></lg><mg><tg xml:lang="myv"><t pos="N">(time) ютазь шка</t></tg><xg><x>in the past </x><xt>ютазь шкасто</xt></xg></mg></e>
+<e><lg><l pos="N">past</l></lg><mg><tg xml:lang="myv"><t pos="N">(time) ютазь шка</t></tg><xg><x>in the past </x><xt xml:lang="myv">ютазь шкасто</xt></xg></mg></e>
 <e><lg><l pos="N">pastime</l></lg><mg><tg xml:lang="myv"><t pos="N">юткошка</t></tg></mg></e>
 <e><lg><l pos="N">pastime pleasure</l></lg><mg><tg xml:lang="myv"><t pos="N">оймеменькс</t></tg></mg></e>
 <e><lg><l pos="N">pastor</l></lg><mg><tg xml:lang="myv"><t pos="N">поп</t></tg></mg></e>
@@ -3348,7 +3348,7 @@
 <e><lg><l pos="N">rail</l></lg><mg><tg xml:lang="myv"><t pos="N">пирявкс</t></tg></mg></e>
 <e><lg><l pos="N">railing</l></lg><mg><tg xml:lang="myv"><t pos="N">пирямо пель</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">сёвнома</t></tg></mg></e>
 <e><lg><l pos="N">railroad</l></lg><mg><tg xml:lang="myv"><t pos="N">чугункань ки</t><t pos="N">кшнинь ки</t></tg></mg></e>
-<e><lg><l pos="N">rain</l></lg><mg><tg xml:lang="myv"><t pos="N">пиземе</t></tg><xg><x>in the rain </x><xt>пиземе ало</xt></xg></mg></e>
+<e><lg><l pos="N">rain</l></lg><mg><tg xml:lang="myv"><t pos="N">пиземе</t></tg><xg><x>in the rain </x><xt xml:lang="myv">пиземе ало</xt></xg></mg></e>
 <e><lg><l pos="N">rainbow</l></lg><mg><tg xml:lang="myv"><t pos="N">пиземечирьке</t><t pos="N">пурьгинечирьке</t></tg></mg></e>
 <e><lg><l pos="N">raindrop</l></lg><mg><tg xml:lang="myv"><t pos="N">пиземебайге</t></tg></mg></e>
 <e><lg><l pos="N">raise</l></lg><mg><tg xml:lang="myv"><t pos="N">(money) важодема ярмаконь кепедема</t></tg></mg></e>
@@ -3362,7 +3362,7 @@
 <e><lg><l pos="N">ransom</l></lg><mg><tg xml:lang="myv"><t pos="N">выкуп</t><t pos="N">рамамо питне</t></tg></mg></e>
 <e><lg><l pos="N">rape</l></lg><mg><tg xml:lang="myv"><t pos="N">вийсэ саема</t><t pos="N">нарьгамо</t></tg></mg></e>
 <e><lg><l pos="N">rapture</l></lg><mg><tg xml:lang="myv"><t pos="N">кецямо</t></tg></mg></e>
-<e><lg><l pos="N">rash</l></lg><mg><tg xml:lang="myv"><t pos="N">путкотема</t><t pos="N">??верьгедемат</t></tg><xg><x>break out in a rash (</x><xt>киське) путкотемс</xt></xg></mg></e>
+<e><lg><l pos="N">rash</l></lg><mg><tg xml:lang="myv"><t pos="N">путкотема</t><t pos="N">??верьгедемат</t></tg><xg><x>break out in a rash (</x><xt xml:lang="myv">киське) путкотемс</xt></xg></mg></e>
 <e><lg><l pos="N">raspberry</l></lg><mg><tg xml:lang="myv"><t pos="N">инзей</t></tg></mg></e>
 <e><lg><l pos="N">rat</l></lg><mg><tg xml:lang="myv"><t pos="N">криса</t></tg></mg></e>
 <e><lg><l pos="N">rate</l></lg><mg><tg xml:lang="myv"><t pos="N">(price) норма</t><t pos="N">питне</t></tg></mg></e>
@@ -3437,7 +3437,7 @@
 <e><lg><l pos="N">relative</l></lg><mg><tg xml:lang="myv"><t pos="N">родня</t><t pos="N">раськень ломань</t></tg></mg></e>
 <e><lg><l pos="N">relaxation</l></lg><mg><tg xml:lang="myv"><t pos="N">оймсема</t></tg></mg></e>
 <e><lg><l pos="N">release</l></lg><mg><tg xml:lang="myv"><t pos="N">(freedom) олякстомтома</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">(item) нолдавкс</t></tg></mg></e>
-<e><lg><l pos="N">relief</l></lg><mg><tg xml:lang="myv"><t pos="N">(aid) лездамо</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">(ease) шождалгавтома</t></tg><xg><x>give relief </x><xt>лездамс; шождалгавтомс</xt></xg></mg></e>
+<e><lg><l pos="N">relief</l></lg><mg><tg xml:lang="myv"><t pos="N">(aid) лездамо</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">(ease) шождалгавтома</t></tg><xg><x>give relief </x><xt xml:lang="myv">лездамс; шождалгавтомс</xt></xg></mg></e>
 <e><lg><l pos="N">religion</l></lg><mg><tg xml:lang="myv"><t pos="N">ознома</t><t pos="N">кемема</t><t pos="N">религия</t></tg></mg></e>
 <e><lg><l pos="N">reluctance</l></lg><mg><tg xml:lang="myv"><t pos="N">мельаразь</t></tg></mg></e>
 <e><lg><l pos="N">remainder</l></lg><mg><tg xml:lang="myv"><t pos="N">лиядкс</t></tg></mg></e>
@@ -3471,7 +3471,7 @@
 <e><lg><l pos="N">requirement</l></lg><mg><tg xml:lang="myv"><t pos="N">вешема (курсонь</t><t pos="N">закононь)</t></tg></mg></e>
 <e><lg><l pos="N">rescue</l></lg><mg><tg xml:lang="myv"><t pos="N">идема</t></tg></mg></e>
 <e><lg><l pos="N">research</l></lg><mg><tg xml:lang="myv"><t pos="N">исследования</t><t pos="N">ванкшнома</t></tg></mg></e>
-<e><lg><l pos="N">resemblance</l></lg><mg><tg xml:lang="myv"><t pos="N"></t></tg><xg><x>have a resemblance to somebody </x><xt>кинь ёновгак молемc</xt><xt>кикскак  туемс</xt></xg></mg></e>
+<e><lg><l pos="N">resemblance</l></lg><mg><tg xml:lang="myv"><t pos="N"></t></tg><xg><x>have a resemblance to somebody </x><xt xml:lang="myv">кинь ёновгак молемc</xt><xt xml:lang="myv">кикскак  туемс</xt></xg></mg></e>
 <e><lg><l pos="N">resentment</l></lg><mg><tg xml:lang="myv"><t pos="N">акирдема</t></tg></mg></e>
 <e><lg><l pos="N">reservation</l></lg><mg><tg xml:lang="myv"><t pos="N">(hotel) бронирования</t></tg></mg></e>
 <e><lg><l pos="N">reservation</l></lg><mg><tg xml:lang="myv"><t pos="N">(land) ванстома мода</t></tg></mg></e>
@@ -3522,7 +3522,7 @@
 <e><lg><l pos="N">rim</l></lg><mg><tg xml:lang="myv"><t pos="N">(edge) скоба</t><t pos="N">край</t></tg></mg></e>
 <e><lg><l pos="N">rind</l></lg><mg><tg xml:lang="myv"><t pos="N">лукш (арбузонь)</t></tg></mg></e>
 <e><lg><l pos="N">ring</l></lg><mg><tg xml:lang="myv"><t pos="N">суркс</t></tg></mg></e>
-<e><lg><l pos="N">ring</l></lg><mg><tg xml:lang="myv"><t pos="N">гайневтема</t></tg><xg><x>give someone a ring </x><xt>гайгстамс киненьгак</xt></xg></mg></e>
+<e><lg><l pos="N">ring</l></lg><mg><tg xml:lang="myv"><t pos="N">гайневтема</t></tg><xg><x>give someone a ring </x><xt xml:lang="myv">гайгстамс киненьгак</xt></xg></mg></e>
 <e><lg><l pos="N">riot</l></lg><mg><tg xml:lang="myv"><t pos="N">бороцямо кепетема</t></tg></mg></e>
 <e><lg><l pos="N">rip</l></lg><mg><tg xml:lang="myv"><t pos="N">сезевкс</t></tg></mg></e>
 <e><lg><l pos="N">risk</l></lg><mg><tg xml:lang="myv"><t pos="N">риск</t></tg></mg></e>
@@ -3614,7 +3614,7 @@
 <e><lg><l pos="N">schedule</l></lg><mg><tg xml:lang="myv"><t pos="N">??мельцек-мельцек сёрмадкс (список)</t></tg></mg></e>
 <e><lg><l pos="N">scholar</l></lg><mg><tg xml:lang="myv"><t pos="N">тонавтниця</t></tg></mg></e>
 <e><lg><l pos="N">scholarship</l></lg><mg><tg xml:lang="myv"><t pos="N">содамочи</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">стипендия</t></tg></mg></e>
-<e><lg><l pos="N">school</l></lg><mg><tg xml:lang="myv"><t pos="N">школа</t></tg><xg><x>finish school </x><xt>прядомс школа</xt></xg></mg></e>
+<e><lg><l pos="N">school</l></lg><mg><tg xml:lang="myv"><t pos="N">школа</t></tg><xg><x>finish school </x><xt xml:lang="myv">прядомс школа</xt></xg></mg></e>
 <e><lg><l pos="N">schooling</l></lg><mg><tg xml:lang="myv"><t pos="N">тонавтнема</t></tg></mg></e>
 <e><lg><l pos="N">science</l></lg><mg><tg xml:lang="myv"><t pos="N">наука</t></tg></mg></e>
 <e><lg><l pos="N">scientist</l></lg><mg><tg xml:lang="myv"><t pos="N">учёной</t><t pos="N">содый</t></tg></mg></e>
@@ -3656,7 +3656,7 @@
 <e><lg><l pos="N">seed</l></lg><mg><tg xml:lang="myv"><t pos="N">видьме</t></tg></mg></e>
 <e><lg><l pos="N">segment</l></lg><mg><tg xml:lang="myv"><t pos="N">пелькс</t></tg></mg></e>
 <e><lg><l pos="N">seizure</l></lg><mg><tg xml:lang="myv"><t pos="N">(medical) куродома</t></tg></mg></e>
-<e><lg><l pos="N">selection</l></lg><mg><tg xml:lang="myv"><t pos="N">кочкамо</t></tg><xg><x>have a selection </x><xt>улемс мезде кочкамс</xt></xg></mg></e>
+<e><lg><l pos="N">selection</l></lg><mg><tg xml:lang="myv"><t pos="N">кочкамо</t></tg><xg><x>have a selection </x><xt xml:lang="myv">улемс мезде кочкамс</xt></xg></mg></e>
 <e><lg><l pos="N">seller</l></lg><mg><tg xml:lang="myv"><t pos="N">микшниця</t></tg></mg></e>
 <e><lg><l pos="N">semicircle</l></lg><mg><tg xml:lang="myv"><t pos="N">??чирьке</t></tg></mg></e>
 <e><lg><l pos="N">seminar</l></lg><mg><tg xml:lang="myv"><t pos="N">семинар</t></tg></mg></e>
@@ -3701,7 +3701,7 @@
 <e><lg><l pos="N">sheet</l></lg><mg><tg xml:lang="myv"><t pos="N">(ice) эйгажа</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">(metal) листовой</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">(paper) лопа</t><t pos="N">арк</t></tg></mg></e>
 <e><lg><l pos="N">shelf</l></lg><mg><tg xml:lang="myv"><t pos="N">лався</t></tg></mg></e>
 <e><lg><l pos="N">shell</l></lg><mg><tg xml:lang="myv"><t pos="N">(turtle) панцирь</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">(bullet) гильза</t></tg></mg></e>
-<e><lg><l pos="N">shelter</l></lg><mg><tg xml:lang="myv"><t pos="N">прянь ванстома тарка</t></tg><xg><x>take shelter </x><xt>пря кекшемс</xt></xg></mg></e>
+<e><lg><l pos="N">shelter</l></lg><mg><tg xml:lang="myv"><t pos="N">прянь ванстома тарка</t></tg><xg><x>take shelter </x><xt xml:lang="myv">пря кекшемс</xt></xg></mg></e>
 <e><lg><l pos="N">shepherd</l></lg><mg><tg xml:lang="myv"><t pos="N">(ревень)  стадаваны</t></tg></mg></e>
 <e><lg><l pos="N">shield</l></lg><mg><tg xml:lang="myv"><t pos="N">ванстыця</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">щит</t></tg></mg></e>
 <e><lg><l pos="N">shift</l></lg><mg><tg xml:lang="myv"><t pos="N">(movement) айгема</t><t pos="N">шаштома</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">(work) важодицянь смена</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">пайме</t></tg></mg></e>
@@ -3725,12 +3725,12 @@
 <e><lg><l pos="N">sickness</l></lg><mg><tg xml:lang="myv"><t pos="N">орма</t></tg></mg></e>
 <e><lg><l pos="N">side</l></lg><mg><tg xml:lang="myv"><t pos="N">бока</t></tg></mg></e>
 <e><lg><l pos="N">sidewalk</l></lg><mg><tg xml:lang="myv"><t pos="N">(pavement) тротуар</t></tg></mg></e>
-<e><lg><l pos="N">sight</l></lg><mg><tg xml:lang="myv"><t pos="N">(eye) сельмепе</t></tg><xg><x>be in sight </x><xt>неявомс; (vision) сельмевалдо</xt></xg></mg></e>
+<e><lg><l pos="N">sight</l></lg><mg><tg xml:lang="myv"><t pos="N">(eye) сельмепе</t></tg><xg><x>be in sight </x><xt xml:lang="myv">неявомс; (vision) сельмевалдо</xt></xg></mg></e>
 <e><lg><l pos="N">sign</l></lg><mg><tg xml:lang="myv"><t pos="N">тешкс</t></tg></mg></e>
 <e><lg><l pos="N">signal</l></lg><mg><tg xml:lang="myv"><t pos="N">сигнал</t></tg></mg></e>
 <e><lg><l pos="N">signature</l></lg><mg><tg xml:lang="myv"><t pos="N">кедьтешкс</t></tg></mg></e>
 <e><lg><l pos="N">significance</l></lg><mg><tg xml:lang="myv"><t pos="N">смусть</t></tg></mg></e>
-<e><lg><l pos="N">silence</l></lg><mg><tg xml:lang="myv"><t pos="N">каштмолема</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">(retension of a secret) чатьмонема</t></tg><xg><x>silence is golden </x><xt>чатьмонемс сырне</xt></xg></mg></e>
+<e><lg><l pos="N">silence</l></lg><mg><tg xml:lang="myv"><t pos="N">каштмолема</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">(retension of a secret) чатьмонема</t></tg><xg><x>silence is golden </x><xt xml:lang="myv">чатьмонемс сырне</xt></xg></mg></e>
 <e><lg><l pos="N">silk</l></lg><mg><tg xml:lang="myv"><t pos="N">парсей</t></tg></mg></e>
 <e><lg><l pos="N">silver</l></lg><mg><tg xml:lang="myv"><t pos="N">сия</t></tg></mg></e>
 <e><lg><l pos="N">similarity</l></lg><mg><tg xml:lang="myv"><t pos="N">лангс-лангс молема</t></tg></mg></e>
@@ -3781,7 +3781,7 @@
 <e><lg><l pos="N">snail</l></lg><mg><tg xml:lang="myv"><t pos="N">улитка (кудыне марто)</t></tg></mg></e>
 <e><lg><l pos="N">snake</l></lg><mg><tg xml:lang="myv"><t pos="N">гуй</t><t pos="N">ёзнэ</t></tg></mg></e>
 <e><lg><l pos="N">sniper</l></lg><mg><tg xml:lang="myv"><t pos="N">ледниця (кекшема таркасто)</t></tg></mg></e>
-<e><lg><l pos="N">snow</l></lg><mg><tg xml:lang="myv"><t pos="N">лов</t></tg><xg><x>covered in snow </x><xt>лов потсо</xt></xg></mg></e>
+<e><lg><l pos="N">snow</l></lg><mg><tg xml:lang="myv"><t pos="N">лов</t></tg><xg><x>covered in snow </x><xt xml:lang="myv">лов потсо</xt></xg></mg></e>
 <e><lg><l pos="N">soap</l></lg><mg><tg xml:lang="myv"><t pos="N">сапонь</t></tg></mg></e>
 <e><lg><l pos="N">soccer</l></lg><mg><tg xml:lang="myv"><t pos="N">футбол</t></tg></mg></e>
 <e><lg><l pos="N">socialism</l></lg><mg><tg xml:lang="myv"><t pos="N">социализма</t></tg></mg></e>
@@ -3829,7 +3829,7 @@
 <e><lg><l pos="N">spinach</l></lg><mg><tg xml:lang="myv"><t pos="N">шпинат</t></tg></mg></e>
 <e><lg><l pos="N">spinal cord</l></lg><mg><tg xml:lang="myv"><t pos="N">котьмере удем</t></tg></mg></e>
 <e><lg><l pos="N">spine</l></lg><mg><tg xml:lang="myv"><t pos="N">котьмеречирьке</t></tg></mg></e>
-<e><lg><l pos="N">spirit</l></lg><mg><tg xml:lang="myv"><t pos="N">(mood) ойме</t><t pos="N">ёжо</t></tg><xg><x>be in a good mood / good spirits </x><xt>аштемс паро ёжосо</xt></xg></mg></e>
+<e><lg><l pos="N">spirit</l></lg><mg><tg xml:lang="myv"><t pos="N">(mood) ойме</t><t pos="N">ёжо</t></tg><xg><x>be in a good mood / good spirits </x><xt xml:lang="myv">аштемс паро ёжосо</xt></xg></mg></e>
 <e><lg><l pos="N">spleen</l></lg><mg><tg xml:lang="myv"><t pos="N">чечей</t><t pos="N">селезенька</t><t pos="N">ожонь пузырь</t></tg></mg></e>
 <e><lg><l pos="N">splint</l></lg><mg><tg xml:lang="myv"><t pos="N">штелькс</t></tg></mg></e>
 <e><lg><l pos="N">splinter</l></lg><mg><tg xml:lang="myv"><t pos="N">(wood) сардо</t><t pos="N">чев</t></tg></mg></e>
@@ -3940,7 +3940,7 @@
 <e><lg><l pos="N">substance</l></lg><mg><tg xml:lang="myv"><t pos="N">материя</t></tg></mg></e>
 <e><lg><l pos="N">subtitle</l></lg><mg><tg xml:lang="myv"><t pos="N">титра</t><t pos="N">алга сёрмадовкс</t></tg></mg></e>
 <e><lg><l pos="N">subtraction</l></lg><mg><tg xml:lang="myv"><t pos="N">саема</t></tg></mg></e>
-<e><lg><l pos="N">suburb</l></lg><mg><tg xml:lang="myv"><t pos="N">ошпе</t></tg><xg><x>live in the suburbs </x><xt>эрямс ошпесэ</xt></xg></mg></e>
+<e><lg><l pos="N">suburb</l></lg><mg><tg xml:lang="myv"><t pos="N">ошпе</t></tg><xg><x>live in the suburbs </x><xt xml:lang="myv">эрямс ошпесэ</xt></xg></mg></e>
 <e><lg><l pos="N">subway</l></lg><mg><tg xml:lang="myv"><t pos="N">метро</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">(ки)алга ютамо</t></tg></mg></e>
 <e><lg><l pos="N">success</l></lg><mg><tg xml:lang="myv"><t pos="N">тевень парсте молема</t></tg></mg></e>
 <e><lg><l pos="N">successor</l></lg><mg><tg xml:lang="myv"><t pos="N">наследник</t></tg></mg></e>
@@ -3996,7 +3996,7 @@
 <e><lg><l pos="N">suspicion</l></lg><mg><tg xml:lang="myv"><t pos="N">чумондома</t></tg></mg></e>
 <e><lg><l pos="N">swamp</l></lg><mg><tg xml:lang="myv"><t pos="N">болота</t><t pos="N">чеядавкс</t><t pos="N">сар</t></tg></mg></e>
 <e><lg><l pos="N">swarm</l></lg><mg><tg xml:lang="myv"><t pos="N">ливти мекшвеле</t><t pos="N">рой</t></tg></mg></e>
-<e><lg><l pos="N">sweat</l></lg><mg><tg xml:lang="myv"><t pos="N">ливезь</t></tg><xg><x>get all covered with sweat </x><xt>ливезиямс</xt></xg></mg></e>
+<e><lg><l pos="N">sweat</l></lg><mg><tg xml:lang="myv"><t pos="N">ливезь</t></tg><xg><x>get all covered with sweat </x><xt xml:lang="myv">ливезиямс</xt></xg></mg></e>
 <e><lg><l pos="N">sweater</l></lg><mg><tg xml:lang="myv"><t pos="N">свитра</t><t pos="N">джемпер</t></tg></mg></e>
 <e><lg><l pos="N">sweetness</l></lg><mg><tg xml:lang="myv"><t pos="N">ламбамо(чи)</t></tg></mg></e>
 <e><lg><l pos="N">swelling</l></lg><mg><tg xml:lang="myv"><t pos="N">таргозькс</t></tg></mg></e>
@@ -4205,7 +4205,7 @@
 <e><lg><l pos="N">tree</l></lg><mg><tg xml:lang="myv"><t pos="N">чувто</t></tg></mg></e>
 <e><lg><l pos="N">trench</l></lg><mg><tg xml:lang="myv"><t pos="N">латко</t><t pos="N">каравт (чувнозь</t><t pos="N">кувака)</t></tg></mg></e>
 <e><lg><l pos="N">trial</l></lg><mg><tg xml:lang="myv"><t pos="N">(court) судиямо</t></tg></mg><mg><tg xml:lang="myv"><t pos="N">(test) варчамо</t></tg></mg></e>
-<e><lg><l pos="N">triangle</l></lg><mg><tg xml:lang="myv"><t pos="N">колмоужокс</t><t pos="N">треугольник</t></tg><xg><x>equilateral triangle </x><xt>вейкеть ёнксонь колмоужокс</xt></xg></mg></e>
+<e><lg><l pos="N">triangle</l></lg><mg><tg xml:lang="myv"><t pos="N">колмоужокс</t><t pos="N">треугольник</t></tg><xg><x>equilateral triangle </x><xt xml:lang="myv">вейкеть ёнксонь колмоужокс</xt></xg></mg></e>
 <e><lg><l pos="N">tribe</l></lg><mg><tg xml:lang="myv"><t pos="N">раське</t><t pos="N">буй</t></tg></mg></e>
 <e><lg><l pos="N">tribute</l></lg><mg><tg xml:lang="myv"><t pos="N">дань</t><t pos="N">каявкс</t></tg></mg></e>
 <e><lg><l pos="N">trick</l></lg><mg><tg xml:lang="myv"><t pos="N">ёжо</t><t pos="N">манямо</t><t pos="N">трюк</t></tg></mg></e>
@@ -4246,7 +4246,7 @@
 <e><lg><l pos="N">tutor</l></lg><mg><tg xml:lang="myv"><t pos="N">кудосо тонавтыця</t><t pos="N">репититор</t></tg></mg></e>
 <e><lg><l pos="N">tweezers</l></lg><mg><tg xml:lang="myv"><t pos="N">пинцет</t></tg></mg></e>
 <e><lg><l pos="N">twilight</l></lg><mg><tg xml:lang="myv"><t pos="N">чопоньбелькс</t><t pos="N">сундерькс</t></tg></mg></e>
-<e><lg><l pos="N">twin</l></lg><mg><tg xml:lang="myv"><t pos="N">кавтаське(ть)</t></tg><xg><x>they are twins </x><xt>сынь кавтаськеть / сынь калтаськеть</xt></xg></mg></e>
+<e><lg><l pos="N">twin</l></lg><mg><tg xml:lang="myv"><t pos="N">кавтаське(ть)</t></tg><xg><x>they are twins </x><xt xml:lang="myv">сынь кавтаськеть / сынь калтаськеть</xt></xg></mg></e>
 <e><lg><l pos="N">twitch</l></lg><mg><tg xml:lang="myv"><t pos="N">??сорнома</t></tg></mg></e>
 <e><lg><l pos="N">type</l></lg><mg><tg xml:lang="myv"><t pos="N">(kind) тип</t></tg></mg></e>
 <e><lg><l pos="N">type</l></lg><mg><tg xml:lang="myv"><t pos="N">(print) кодамо-бути сёрмадкс мезе лангсояк</t></tg></mg></e>
@@ -4282,7 +4282,7 @@
 <e><lg><l pos="N">utensil</l></lg><mg><tg xml:lang="myv"><t pos="N">пенчт-вакант</t></tg></mg></e>
 <e><lg><l pos="N">uterus</l></lg><mg><tg xml:lang="myv"><t pos="N">эйдекудо</t></tg></mg></e>
 <e><lg><l pos="N">vacancy</l></lg><mg><tg xml:lang="myv"><t pos="N">чаво тарка</t><t pos="N">оля тарка</t></tg></mg></e>
-<e><lg><l pos="N">vacation</l></lg><mg><tg xml:lang="myv"><t pos="N">(school</t><t pos="N">work) оймсема шка</t></tg><xg><x>go on vacation </x><xt>туемс оймсеме</xt></xg></mg></e>
+<e><lg><l pos="N">vacation</l></lg><mg><tg xml:lang="myv"><t pos="N">(school</t><t pos="N">work) оймсема шка</t></tg><xg><x>go on vacation </x><xt xml:lang="myv">туемс оймсеме</xt></xg></mg></e>
 <e><lg><l pos="N">vaccination</l></lg><mg><tg xml:lang="myv"><t pos="N">ливксэнь путома</t></tg></mg></e>
 <e><lg><l pos="N">vaccine</l></lg><mg><tg xml:lang="myv"><t pos="N">ливкс</t></tg></mg></e>
 <e><lg><l pos="N">vacuum cleaner</l></lg><mg><tg xml:lang="myv"><t pos="N">пулень потямо машина</t><t pos="N">пулисос</t></tg></mg></e>
@@ -4319,7 +4319,7 @@
 <e><lg><l pos="N">veteran</l></lg><mg><tg xml:lang="myv"><t pos="N">(military) ветеран</t></tg></mg></e>
 <e><lg><l pos="N">veterinarian</l></lg><mg><tg xml:lang="myv"><t pos="N">ракшань леци</t></tg></mg></e>
 <e><lg><l pos="N">veto</l></lg><mg><tg xml:lang="myv"><t pos="N">??а мерема</t><t pos="N">(прявтонь) каршо молема</t></tg></mg></e>
-<e><lg><l pos="N">vicinity</l></lg><mg><tg xml:lang="myv"><t pos="N">??шабраксчи</t><t pos="N">??маласочи</t></tg><xg><x>here in the vicinity </x><xt>тесэ маласо</xt></xg></mg></e>
+<e><lg><l pos="N">vicinity</l></lg><mg><tg xml:lang="myv"><t pos="N">??шабраксчи</t><t pos="N">??маласочи</t></tg><xg><x>here in the vicinity </x><xt xml:lang="myv">тесэ маласо</xt></xg></mg></e>
 <e><lg><l pos="N">victim</l></lg><mg><tg xml:lang="myv"><t pos="N">жертва</t></tg></mg></e>
 <e><lg><l pos="N">victory</l></lg><mg><tg xml:lang="myv"><t pos="N">изнямо</t><t pos="N">сэскема</t></tg></mg></e>
 <e><lg><l pos="N">view</l></lg><mg><tg xml:lang="myv"><t pos="N">вид</t><t pos="N">неявома</t></tg></mg></e>
@@ -4336,7 +4336,7 @@
 <e><lg><l pos="N">virus</l></lg><mg><tg xml:lang="myv"><t pos="N">вирус</t></tg></mg></e>
 <e><lg><l pos="N">visa</l></lg><mg><tg xml:lang="myv"><t pos="N">виза</t></tg></mg></e>
 <e><lg><l pos="N">visibility</l></lg><mg><tg xml:lang="myv"><t pos="N">неявиксчи</t></tg></mg></e>
-<e><lg><l pos="N">vision</l></lg><mg><tg xml:lang="myv"><t pos="N">неемачи</t><t pos="N">сельмепе</t><t pos="N">сельмевалдо</t></tg><xg><x>he has poor vision </x><xt>сельмензэ неить беряньстэ</xt></xg></mg></e>
+<e><lg><l pos="N">vision</l></lg><mg><tg xml:lang="myv"><t pos="N">неемачи</t><t pos="N">сельмепе</t><t pos="N">сельмевалдо</t></tg><xg><x>he has poor vision </x><xt xml:lang="myv">сельмензэ неить беряньстэ</xt></xg></mg></e>
 <e><lg><l pos="N">visit</l></lg><mg><tg xml:lang="myv"><t pos="N">визит</t><t pos="N">инжекс якамо</t></tg></mg></e>
 <e><lg><l pos="N">visitor</l></lg><mg><tg xml:lang="myv"><t pos="N">инже</t></tg></mg></e>
 <e><lg><l pos="N">vitamin</l></lg><mg><tg xml:lang="myv"><t pos="N">витамин</t></tg></mg></e>
@@ -4362,7 +4362,7 @@
 <e><lg><l pos="N">waiter</l></lg><mg><tg xml:lang="myv"><t pos="N">официант</t></tg></mg></e>
 <e><lg><l pos="N">waiting room</l></lg><mg><tg xml:lang="myv"><t pos="N">аштема нупаль</t></tg></mg></e>
 <e><lg><l pos="N">waitress</l></lg><mg><tg xml:lang="myv"><t pos="N">официант</t></tg></mg></e>
-<e><lg><l pos="N">walk</l></lg><mg><tg xml:lang="myv"><t pos="N">(ялго) ютамо</t></tg><xg><x>go out for a walk </x><xt>туемс ютамо</xt></xg></mg></e>
+<e><lg><l pos="N">walk</l></lg><mg><tg xml:lang="myv"><t pos="N">(ялго) ютамо</t></tg><xg><x>go out for a walk </x><xt xml:lang="myv">туемс ютамо</xt></xg></mg></e>
 <e><lg><l pos="N">wall</l></lg><mg><tg xml:lang="myv"><t pos="N">стена</t></tg></mg></e>
 <e><lg><l pos="N">wallet</l></lg><mg><tg xml:lang="myv"><t pos="N">партмонэ</t><t pos="N">кошолёк</t></tg></mg></e>
 <e><lg><l pos="N">walnut</l></lg><mg><tg xml:lang="myv"><t pos="N">лия масторонь пеште</t><t pos="N">грекень пеште</t></tg></mg></e>
@@ -4390,7 +4390,7 @@
 <e><lg><l pos="N">wave</l></lg><mg><tg xml:lang="myv"><t pos="N">(hand) аволдавкс</t></tg></mg></e>
 <e><lg><l pos="N">wave</l></lg><mg><tg xml:lang="myv"><t pos="N">(water) толкун</t><t pos="N">ведьпандо</t></tg></mg></e>
 <e><lg><l pos="N">wax</l></lg><mg><tg xml:lang="myv"><t pos="N">шта</t></tg></mg></e>
-<e><lg><l pos="N">way</l></lg><mg><tg xml:lang="myv"><t pos="N">киланго</t></tg><xg><x>in the way </x><xt>пильгеало</xt></xg><xg><x>on the way </x><xt>килангсо</xt></xg></mg></e>
+<e><lg><l pos="N">way</l></lg><mg><tg xml:lang="myv"><t pos="N">киланго</t></tg><xg><x>in the way </x><xt xml:lang="myv">пильгеало</xt></xg><xg><x>on the way </x><xt xml:lang="myv">килангсо</xt></xg></mg></e>
 <e><lg><l pos="N">weakness</l></lg><mg><tg xml:lang="myv"><t pos="N">лавшочи</t></tg></mg></e>
 <e><lg><l pos="N">wealth</l></lg><mg><tg xml:lang="myv"><t pos="N">сюпавчи</t><t pos="N">козячи</t><t pos="N">эрьме</t></tg></mg></e>
 <e><lg><l pos="N">weapon</l></lg><mg><tg xml:lang="myv"><t pos="N">ружия</t></tg></mg></e>
@@ -4473,7 +4473,7 @@
 <e><lg><l pos="N">yawn</l></lg><mg><tg xml:lang="myv"><t pos="N">кургонь автнема</t></tg></mg></e>
 <e><lg><l pos="N">year</l></lg><mg><tg xml:lang="myv"><t pos="N">ие</t></tg></mg></e>
 <e><lg><l pos="N">yeast</l></lg><mg><tg xml:lang="myv"><t pos="N">оргат</t></tg></mg></e>
-<e><lg><l pos="N">yes</l></lg><mg><tg xml:lang="myv"><t pos="N">(response) истя</t><t pos="N">(теемавалось одов)</t></tg><xg><x>would you like some tea? -- yes, please </x><xt>чайде кармат? -- карман</xt></xg></mg></e>
+<e><lg><l pos="N">yes</l></lg><mg><tg xml:lang="myv"><t pos="N">(response) истя</t><t pos="N">(теемавалось одов)</t></tg><xg><x>would you like some tea? -- yes, please </x><xt xml:lang="myv">чайде кармат? -- карман</xt></xg></mg></e>
 <e><lg><l pos="N">yield</l></lg><mg><tg xml:lang="myv"><t pos="N">(эмежень) чачома</t></tg></mg></e>
 <e><lg><l pos="N">yogurt</l></lg><mg><tg xml:lang="myv"><t pos="N">йогурт</t></tg></mg></e>
 <e><lg><l pos="N">yolk</l></lg><mg><tg xml:lang="myv"><t pos="N">(egg) алтюжа</t></tg></mg></e>

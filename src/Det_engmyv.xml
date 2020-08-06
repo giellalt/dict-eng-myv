@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <r id="engmyv" xml:lang="eng">
-<e><lg><l pos="Det" type="Art">a</l></lg><mg><tg xml:lang="myv"><t>(гласнойде икеле an)</t><t>аволь определённой артикл</t></tg><xg><x>bananas cost fifty cents a kilo</x><xt>(бананань) ведьгемень сентт килозо</xt></xg></mg></e>
+<e><lg><l pos="Det" type="Art">a</l></lg><mg><tg xml:lang="myv"><t>(гласнойде икеле an)</t><t>аволь определённой артикл</t></tg><xg><x>bananas cost fifty cents a kilo</x><xt xml:lang="myv">(бананань) ведьгемень сентт килозо</xt></xg></mg></e>
 <e><lg><l pos="Det" type="Qnt">a lot of</l></lg><mg><tg xml:lang="myv"><t pos="Qnt">ламо</t></tg></mg></e>
 <e><lg><l pos="Det" type="Art">the</l></lg><mg><tg xml:lang="myv"><t pos="Art">-ось/-эсь/-есь/-сь</t></tg></mg><mg><tg xml:lang="myv"><t pos="Art">-тне/-тнэ</t></tg></mg></e>
 <e><lg><l pos="Det" type="Ord">eighth</l></lg><mg><tg xml:lang="myv"><t pos="Det">кавксоце</t></tg></mg></e>
